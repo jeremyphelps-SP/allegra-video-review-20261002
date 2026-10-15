@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "What Can Your Mouth Reveal About Your Health?",
+    "video": "Videos/01%20-%205%20Clues%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/01.jpg",
+    "captions": "Captions/01-English.vtt",
+    "watch": "Watch/01.html",
+    "review_only": true
+  },
+  {
+    "id": 2,
+    "title": "Jaw Pain: 5 Common Causes Your Dentist Checks",
+    "video": "Videos/02%20-%205%20Common%20Causes%20of%20Jaw%20Pain%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/02.jpg",
+    "captions": "Captions/02-English.vtt",
+    "watch": "Watch/02.html",
+    "review_only": true
+  },
+  {
+    "id": 3,
+    "title": "Bonding vs. Veneers: Repair, Stains and Wear",
+    "video": "Videos/03%20-%20Bonding%20Vs%20Veneers%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/03.jpg",
+    "captions": "Captions/03-English.vtt",
+    "watch": "Watch/03.html",
+    "review_only": true
+  },
+  {
+    "id": 4,
+    "title": "Choosing a Dentist? What You Should Be Able to Expect",
+    "video": "Videos/04%20-%20Choices%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/04.jpg",
+    "captions": "Captions/04-English.vtt",
+    "watch": "Watch/04.html",
+    "review_only": true
+  },
+  {
+    "id": 5,
+    "title": "Chipped Teeth or Small Gaps: Could Bonding Help?",
+    "video": "Videos/05%20-%20Composite%20Bonding%20Right%20For%20You%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/05.jpg",
+    "captions": "Captions/05-English.vtt",
+    "watch": "Watch/05.html",
+    "review_only": true
+  },
+  {
+    "id": 6,
+    "title": "Bonding or Veneers: Which Fits Your Smile Goals?",
+    "video": "Videos/06%20-%20Composite%20vs%20Porcelain%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/06.jpg",
+    "captions": "Captions/06-English.vtt",
+    "watch": "Watch/06.html",
+    "review_only": true
+  },
+  {
+    "id": 7,
+    "title": "What to Expect From a Forma Method Consultation",
+    "video": "Videos/07%20-%20Comprehensive%20Approach%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/07.jpg",
+    "captions": "Captions/07-English.vtt",
+    "watch": "Watch/07.html",
+    "review_only": true
+  },
+  {
+    "id": 8,
+    "title": "Your First Visit to Allegra: A Welcome From Dr. Dickson",
+    "video": "Videos/08%20-%20Finding%20a%20new%20office%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/08.jpg",
+    "captions": "Captions/08-English.vtt",
+    "watch": "Watch/08.html",
+    "review_only": true
+  },
+  {
+    "id": 9,
+    "title": "Before Veneers: What Makes a Smile Look Natural?",
+    "video": "Videos/09%20-%20Forma%20Method%202%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/09.jpg",
+    "captions": "Captions/09-English.vtt",
+    "watch": "Watch/09.html",
+    "review_only": true
+  },
+  {
+    "id": 10,
+    "title": "The Forma Method: From Dental Findings to a Clear Plan",
+    "video": "Videos/10%20-%20Forma%20Method%20Full%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/10.jpg",
+    "captions": "Captions/10-English.vtt",
+    "watch": "Watch/10.html",
+    "review_only": true
+  },
+  {
+    "id": 11,
+    "title": "Gummy Smile? Why the Cause Changes the Treatment",
+    "video": "Videos/11%20-%20Gummy%20Smile%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/11.jpg",
+    "captions": "Captions/11-English.vtt",
+    "watch": "Watch/11.html",
+    "review_only": true
+  },
+  {
+    "id": 12,
+    "title": "5 Invisalign Habits to Keep Your Treatment on Track",
+    "video": "Videos/12%20-%20Invisalign%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/12.jpg",
+    "captions": "Captions/12-English.vtt",
+    "watch": "Watch/12.html",
+    "review_only": true
+  },
+  {
+    "id": 13,
+    "title": "Can Dental Laser Care Help a Painful Canker Sore?",
+    "video": "Videos/13%20-%20Lasers%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/13.jpg",
+    "captions": "Captions/13-English.vtt",
+    "watch": "Watch/13.html",
+    "review_only": true
+  },
+  {
+    "id": 14,
+    "title": "Smile Design Starts With Listening to You",
+    "video": "Videos/14%20-%20Lessons%20In%20Career%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/14.jpg",
+    "captions": "Captions/14-English.vtt",
+    "watch": "Watch/14.html",
+    "review_only": true
+  },
+  {
+    "id": 15,
+    "title": "Beyond Cavities: What Else Should a Dentist Consider?",
+    "video": "Videos/15%20-%20Problem%20with%20Dentistry%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/15.jpg",
+    "captions": "Captions/15-English.vtt",
+    "watch": "Watch/15.html",
+    "review_only": true
+  },
+  {
+    "id": 16,
+    "title": "Jaw Discomfort: Why Dr. Dickson Checks Your Bite",
+    "video": "Videos/16%20-%20Sore%20Jaw%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/16.jpg",
+    "captions": "Captions/16-English.vtt",
+    "watch": "Watch/16.html",
+    "review_only": true
+  },
+  {
+    "id": 17,
+    "title": "Cold Sore Starting? Ask About Dental Laser Care",
+    "video": "Videos/17%20-%20Ulcers%20-%20Luxury-Unfiltered-Broll-Review.mp4",
+    "cover": "Covers/17.jpg",
+    "captions": "Captions/17-English.vtt",
+    "watch": "Watch/17.html",
+    "review_only": true
+  },
+  {
+    "id": 18,
+    "title": "The Forma Method: A Fuller Picture of Your Health",
+    "video": "Videos/18-Forma-Method-Flagship-REVIEW.mp4",
+    "cover": "Covers/18.jpg",
+    "captions": "Captions/18-English.vtt",
+    "watch": "Watch/18.html",
+    "review_only": true
+  }
+]
