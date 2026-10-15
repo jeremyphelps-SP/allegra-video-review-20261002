@@ -1,11 +1,11 @@
 {
-  "handoff_id": "ADC-VIDEO-WEBSITE-20261015-R1",
+  "handoff_id": "ADC-VIDEO-WEBSITE-20261015-R2",
   "approval_state": "pending",
   "videos": [
     {
       "id": 1,
       "title": "What Can Your Mouth Reveal About Your Health?",
-      "video_sha256": "a2357fa0954186a42b8043c75ae030251797cf3f4e11e63855002539525a544f",
+      "video_sha256": "ac34d0c796ac419eb81155e353e7e5bb652256c7baf9a46fb8a45e198af2b5dd",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Jaw Pain: 5 Common Causes Your Dentist Checks",
-      "video_sha256": "e4a1e59833c88995c36d1dcea3bf37baf0af1c20b67d46f79f2cfc77054ffc4f",
+      "video_sha256": "eee363d44f22c863a922420fe9edf234f840d9850953099041725a69b701dd8b",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Bonding vs. Veneers: Repair, Stains and Wear",
-      "video_sha256": "cb3d391bd0c322020b7dab60a17cad3552b5f60c36f10609fb7de0c892420ac2",
+      "video_sha256": "161415196103656b3d470183a9d6052b2d33345465b4a7c22d94dbc504e24b92",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "title": "Choosing a Dentist? What You Should Be Able to Expect",
-      "video_sha256": "c0c0ceef7b40735a084ebd800532145ca083a2e78ede0d032b3a19f7154952bd",
+      "video_sha256": "98b832ba1a6a1ea0131645bdeaa3b2f541bd2a9940f2df080436bb445f4e3770",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "title": "Chipped Teeth or Small Gaps: Could Bonding Help?",
-      "video_sha256": "6d3d533fc87f77a729e956628f4e76c2791c4b1c604865a06c51c432ce8590fe",
+      "video_sha256": "c4ca0fd29fcc55f92634bb02e1187cee3c9fff6caebc8f814a105ab4e64d2324",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -50,7 +50,7 @@
     {
       "id": 6,
       "title": "Bonding or Veneers: Which Fits Your Smile Goals?",
-      "video_sha256": "7e9cbdba03f18411f3fb0ab8f71dd5e0a16ceef60c9b61e639defda773cc11bd",
+      "video_sha256": "57529d92bc10bbdccede668ba5c1e153e63b63cdb65dc2899e1062283c7f8f36",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -59,7 +59,7 @@
     {
       "id": 7,
       "title": "What to Expect From a Forma Method Consultation",
-      "video_sha256": "78d9d41dc7c1f37b25a23f8c0a6590a1eeec53c4a36bd68e0cc751f0c8d8a2d0",
+      "video_sha256": "c4188c08ea90401d675d52e120c58465fc32fc1fbf1ba9453d4ceda8413a0315",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -67,8 +67,8 @@
     },
     {
       "id": 8,
-      "title": "Your First Visit to Allegra: A Welcome From Dr. Dickson",
-      "video_sha256": "0eae995719db295b793b626fe3992dd9e84123ae1bf8d4328b8f22e89f982938",
+      "title": "Your First Visit to Allegra Dental Center: A Welcome From Dr. Dickson",
+      "video_sha256": "4f43e2a396e2ffb854a366d8691d4a8c5edcca8ea1b3cca36c9a49022d1066d4",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -77,7 +77,7 @@
     {
       "id": 9,
       "title": "Before Veneers: What Makes a Smile Look Natural?",
-      "video_sha256": "e98a48f6181d3db6d12aef339dca530ddbc8f1266fb3aa6cbb97f5f674d550c8",
+      "video_sha256": "3338f5093724a7767ec3a31dc672ab26c4ba876c51d93417155b92e4bf76fcff",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -86,7 +86,7 @@
     {
       "id": 10,
       "title": "The Forma Method: From Dental Findings to a Clear Plan",
-      "video_sha256": "785e0683600307e213a5007e3669303d07523c0d4c8bad288834889e4abc1f56",
+      "video_sha256": "00f697d401f52135ef9a916d82643625985ae82a5c4803ba52d674eebe40e0a6",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -95,7 +95,7 @@
     {
       "id": 11,
       "title": "Gummy Smile? Why the Cause Changes the Treatment",
-      "video_sha256": "dec15a328161b9e61c0fe0dad8558f8c1c26c6cb64313dc372168f612586492f",
+      "video_sha256": "ed035bbfc8f1bd76b39ae0573cbe7974ffa7ff0467cbeb86d303edd9a01f07a0",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -104,7 +104,7 @@
     {
       "id": 12,
       "title": "5 Invisalign Habits to Keep Your Treatment on Track",
-      "video_sha256": "b81ac2af4330ab63eed2f9509d25f28526dca30727ec7226e99c4f8bf4282b8b",
+      "video_sha256": "004f89b5aad78beedbe7083b02873f0f3b2c58560b0ba400948466e6787132c2",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -113,7 +113,7 @@
     {
       "id": 13,
       "title": "Can Dental Laser Care Help a Painful Canker Sore?",
-      "video_sha256": "e6d88c9960707d84aae86a3297b4cb439d50456c3aa9bfa38c8e5b9560cfaf96",
+      "video_sha256": "6ef9e7d43e7df761867a0e3c5eadf30ed5da135b99e4b39eb93c4582497f2ba6",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -122,7 +122,7 @@
     {
       "id": 14,
       "title": "Smile Design Starts With Listening to You",
-      "video_sha256": "9de0c909bd1e92853e6e89a43e6242535cd9ca0175fa1045c3cf0952d1b0624a",
+      "video_sha256": "5688e646dd101f94eb554f19318c20a034e117dd2cd0600d1c9842354b7f455b",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -131,7 +131,7 @@
     {
       "id": 15,
       "title": "Beyond Cavities: What Else Should a Dentist Consider?",
-      "video_sha256": "5fdcb564e3e39093b6b62ed31e86efa5bedbb724d30f76bd036529f6d35cb61b",
+      "video_sha256": "9c3834f329a8017eb5261cda5e4e4a3d7a1d419d6915fc4146fe07c1a6699f0f",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -149,7 +149,7 @@
     {
       "id": 17,
       "title": "Cold Sore Starting? Ask About Dental Laser Care",
-      "video_sha256": "7dfcdd64f468bc329218db4a8c683bdb78641dc5ca72b545efafbcac7a2f5260",
+      "video_sha256": "39475149d0baddcd863a76bff2ffc9dc1082265a67e4e9c87429f1c3a1da301e",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",
@@ -158,7 +158,7 @@
     {
       "id": 18,
       "title": "The Forma Method: A Fuller Picture of Your Health",
-      "video_sha256": "df957fec0ae60c96b47b520d34b3bf675afa8ab5284d64d5cc22cb7c96583efe",
+      "video_sha256": "9cd625e02b31e64b71dc41ab51d6d943bae2d5636f19356754646f60e1c8a4b6",
       "status": "pending_doctor_review",
       "approved_by": "",
       "approved_at": "",

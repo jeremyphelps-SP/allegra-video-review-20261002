@@ -1,7 +1,7 @@
 {
-  "file": "ADC-Website-Handoff-R1.zip",
-  "bytes": 5335464,
-  "sha256": "f12d7c30365c0dfca89774abf1132350e939b3764aa597fa0cc2cf42854c957f",
+  "file": "ADC-Website-Handoff-R2.zip",
+  "bytes": 5335855,
+  "sha256": "57c7884a8fd888c083a9ed2e86b8c89584ebd46dd6093a325de19b5fb8c24bc0",
   "includes": "Handoff metadata, approval register, music credits, 18 covers, 36 caption files, 18 transcripts. MP4 files are linked and available in the pinned repository archive.",
-  "media_source_commit": "2a5f539fd91527991c9c8dcff647655ec7ca5cab"
+  "media_source_commit": "a5f44a3244c71add994377da762e670474d47a83"
 }
