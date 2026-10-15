@@ -6,7 +6,9 @@
     "cover": "Covers/01.jpg",
     "captions": "Captions/01-English.vtt",
     "watch": "Watch/01.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "ac34d0c796ac419eb81155e353e7e5bb652256c7baf9a46fb8a45e198af2b5dd"
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "cover": "Covers/02.jpg",
     "captions": "Captions/02-English.vtt",
     "watch": "Watch/02.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "eee363d44f22c863a922420fe9edf234f840d9850953099041725a69b701dd8b"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "cover": "Covers/03.jpg",
     "captions": "Captions/03-English.vtt",
     "watch": "Watch/03.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "161415196103656b3d470183a9d6052b2d33345465b4a7c22d94dbc504e24b92"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "cover": "Covers/04.jpg",
     "captions": "Captions/04-English.vtt",
     "watch": "Watch/04.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "98b832ba1a6a1ea0131645bdeaa3b2f541bd2a9940f2df080436bb445f4e3770"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "cover": "Covers/05.jpg",
     "captions": "Captions/05-English.vtt",
     "watch": "Watch/05.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "c4ca0fd29fcc55f92634bb02e1187cee3c9fff6caebc8f814a105ab4e64d2324"
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "cover": "Covers/06.jpg",
     "captions": "Captions/06-English.vtt",
     "watch": "Watch/06.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "57529d92bc10bbdccede668ba5c1e153e63b63cdb65dc2899e1062283c7f8f36"
   },
   {
     "id": 7,
@@ -60,16 +72,20 @@
     "cover": "Covers/07.jpg",
     "captions": "Captions/07-English.vtt",
     "watch": "Watch/07.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "c4188c08ea90401d675d52e120c58465fc32fc1fbf1ba9453d4ceda8413a0315"
   },
   {
     "id": 8,
-    "title": "Your First Visit to Allegra: A Welcome From Dr. Dickson",
+    "title": "Your First Visit to Allegra Dental Center: A Welcome From Dr. Dickson",
     "video": "Videos/08%20-%20Finding%20a%20new%20office%20-%20Luxury-Unfiltered-Broll-Review.mp4",
     "cover": "Covers/08.jpg",
     "captions": "Captions/08-English.vtt",
     "watch": "Watch/08.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "4f43e2a396e2ffb854a366d8691d4a8c5edcca8ea1b3cca36c9a49022d1066d4"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "cover": "Covers/09.jpg",
     "captions": "Captions/09-English.vtt",
     "watch": "Watch/09.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "3338f5093724a7767ec3a31dc672ab26c4ba876c51d93417155b92e4bf76fcff"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "cover": "Covers/10.jpg",
     "captions": "Captions/10-English.vtt",
     "watch": "Watch/10.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "00f697d401f52135ef9a916d82643625985ae82a5c4803ba52d674eebe40e0a6"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "cover": "Covers/11.jpg",
     "captions": "Captions/11-English.vtt",
     "watch": "Watch/11.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "ed035bbfc8f1bd76b39ae0573cbe7974ffa7ff0467cbeb86d303edd9a01f07a0"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "cover": "Covers/12.jpg",
     "captions": "Captions/12-English.vtt",
     "watch": "Watch/12.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "004f89b5aad78beedbe7083b02873f0f3b2c58560b0ba400948466e6787132c2"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "cover": "Covers/13.jpg",
     "captions": "Captions/13-English.vtt",
     "watch": "Watch/13.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "6ef9e7d43e7df761867a0e3c5eadf30ed5da135b99e4b39eb93c4582497f2ba6"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "cover": "Covers/14.jpg",
     "captions": "Captions/14-English.vtt",
     "watch": "Watch/14.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "5688e646dd101f94eb554f19318c20a034e117dd2cd0600d1c9842354b7f455b"
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "cover": "Covers/15.jpg",
     "captions": "Captions/15-English.vtt",
     "watch": "Watch/15.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "9c3834f329a8017eb5261cda5e4e4a3d7a1d419d6915fc4146fe07c1a6699f0f"
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "cover": "Covers/16.jpg",
     "captions": "Captions/16-English.vtt",
     "watch": "Watch/16.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "38977f7a300c86a1ae66d5ad065f078af992f06769668a708385d58f4087aebd"
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "cover": "Covers/17.jpg",
     "captions": "Captions/17-English.vtt",
     "watch": "Watch/17.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "39475149d0baddcd863a76bff2ffc9dc1082265a67e4e9c87429f1c3a1da301e"
   },
   {
     "id": 18,
@@ -159,6 +193,8 @@
     "cover": "Covers/18.jpg",
     "captions": "Captions/18-English.vtt",
     "watch": "Watch/18.html",
-    "review_only": true
+    "review_only": true,
+    "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+    "video_sha256": "9cd625e02b31e64b71dc41ab51d6d943bae2d5636f19356754646f60e1c8a4b6"
   }
 ]

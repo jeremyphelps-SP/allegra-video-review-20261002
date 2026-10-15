@@ -1,0 +1,364 @@
+{
+  "revision": "ADC-EDITORIAL-QUALITY-20261015-R2",
+  "full_brand_name": "Allegra Dental Center",
+  "audio_policy": "Copy existing approved encoded audio packets and timestamps without remixing.",
+  "changes": [
+    {
+      "id": 1,
+      "asset": "01-Bridge-1.png",
+      "old_start": 19.853166666666667,
+      "old_end": 20.5,
+      "new_start": 19.853166666666667,
+      "new_end": 21.5215,
+      "reason": "Connected health retained through adjacent camera cut"
+    },
+    {
+      "id": 1,
+      "asset": "sleep-context.png",
+      "old_start": 36.74,
+      "old_end": 40,
+      "new_start": 36.745041666666665,
+      "new_end": 40.04,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 1,
+      "asset": "smile-planning-models.png",
+      "old_start": 47.7,
+      "old_end": 50.7,
+      "new_start": 47.5475,
+      "new_end": 51.21783333333333,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 2,
+      "asset": "morning-jaw-concern.png",
+      "old_start": 3.54,
+      "old_end": 6.5,
+      "new_start": 3.0864166666666666,
+      "new_end": 8.341666666666667,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 2,
+      "asset": "desk-jaw-concern.png",
+      "old_start": 24.42,
+      "old_end": 27.42,
+      "new_start": 24.399375,
+      "new_end": 28.361666666666665,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 2,
+      "asset": "sleep-context.png",
+      "old_start": 28.68,
+      "old_end": 31.34,
+      "new_start": 28.361666666666665,
+      "new_end": 31.322958333333332,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 3,
+      "asset": "chipped-incisor.png",
+      "old_start": 5.18,
+      "old_end": 9.18,
+      "new_start": 5.171833333333333,
+      "new_end": 11.302958333333333,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 3,
+      "asset": "porcelain-veneer-shells.png",
+      "old_start": 15.46,
+      "old_end": 20.54,
+      "new_start": 15.223541666666666,
+      "new_end": 22.93958333333333,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 4,
+      "asset": "04-Bridge-1.png",
+      "old_start": 24.149124999999998,
+      "old_end": 24.8,
+      "new_start": 24.149124999999998,
+      "new_end": 25.94258333333333,
+      "reason": "Established photo card retained through adjacent camera cut"
+    },
+    {
+      "id": 4,
+      "asset": "family-context.mp4",
+      "old_start": 31.1,
+      "old_end": 34.8,
+      "new_start": 31.031,
+      "new_end": 34.784749999999995,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 4,
+      "asset": "patient-goals-conversation.png",
+      "old_start": 72.3,
+      "old_end": 75.3,
+      "new_start": 71.73833333333333,
+      "new_end": 75.28354166666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 5,
+      "asset": "chipped-incisor.png",
+      "old_start": 2.8,
+      "old_end": 5.1,
+      "new_start": 2.544208333333333,
+      "new_end": 5.088416666666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 5,
+      "asset": "small-diastema.png",
+      "old_start": 5.1,
+      "old_end": 7.6,
+      "new_start": 5.088416666666666,
+      "new_end": 10.01,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 6,
+      "asset": "small-diastema.png",
+      "old_start": 4.72,
+      "old_end": 8.64,
+      "new_start": 3.6703333333333332,
+      "new_end": 9.217541666666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 6,
+      "asset": "porcelain-veneer-shells.png",
+      "old_start": 11,
+      "old_end": 14.7,
+      "new_start": 9.217541666666666,
+      "new_end": 14.681333333333333,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 7,
+      "asset": "wellness-walk.mp4",
+      "old_start": 8.5,
+      "old_end": 12.1,
+      "new_start": 8.5085,
+      "new_end": 14.055708333333332,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 7,
+      "asset": "findings-conversation.png",
+      "old_start": 19.2,
+      "old_end": 23,
+      "new_start": 19.18583333333333,
+      "new_end": 23.023,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 8,
+      "asset": "approved-welcome-photo.jpeg",
+      "old_start": 27.5,
+      "old_end": 30.5,
+      "new_start": 26.69333333333333,
+      "new_end": 30.488791666666664,
+      "reason": "Replace the fading earlier portrait directly with the team photo, avoiding a brief presenter return."
+    },
+    {
+      "id": 8,
+      "asset": "family-context.mp4",
+      "old_start": 55,
+      "old_end": 58.5,
+      "new_start": 55.01329166666666,
+      "new_end": 59.184124999999995,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 9,
+      "asset": "dental-photography.png",
+      "old_start": 38.2,
+      "old_end": 41,
+      "new_start": 38.20483333333333,
+      "new_end": 41.916875,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 9,
+      "asset": "natural-smile-goal.png",
+      "old_start": 65.59,
+      "old_end": 69,
+      "new_start": 65.52379166666667,
+      "new_end": 70.65391666666666,
+      "reason": "Cut from the existing enhancement graphic directly to the smile photo, removing a two-frame presenter flash."
+    },
+    {
+      "id": 10,
+      "asset": "dental-photography.png",
+      "old_start": 32.1,
+      "old_end": 34.5,
+      "new_start": 32.07370833333333,
+      "new_end": 34.49279166666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 10,
+      "asset": "10-Bridge-1.png",
+      "old_start": 41.666624999999996,
+      "old_end": 42.3,
+      "new_start": 41.666624999999996,
+      "new_end": 42.33395833333333,
+      "reason": "Established art card retained through adjacent camera cut"
+    },
+    {
+      "id": 10,
+      "asset": "blueprint-analogy.mp4",
+      "old_start": 45.78,
+      "old_end": 50.46,
+      "new_start": 45.503791666666665,
+      "new_end": 54.01229166666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 10,
+      "asset": "desk-jaw-concern.png",
+      "old_start": 70.42,
+      "old_end": 74.46,
+      "new_start": 70.40366666666667,
+      "new_end": 74.49108333333332,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 11,
+      "asset": "Studio-Smile-B.png",
+      "old_start": 3.3,
+      "old_end": 5.8,
+      "new_start": 3.294958333333333,
+      "new_end": 7.424083333333333,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 11,
+      "asset": "Studio-Smile-C.png",
+      "old_start": 15.4,
+      "old_end": 23.8,
+      "new_start": 14.931583333333332,
+      "new_end": 23.815458333333332,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 12,
+      "asset": "clear-aligner-case.png",
+      "old_start": 11.16,
+      "old_end": 14.66,
+      "new_start": 11.177833333333332,
+      "new_end": 14.681333333333333,
+      "reason": "Cover the final frame of the earlier aligner B-roll, removing a stray shot and small label."
+    },
+    {
+      "id": 13,
+      "asset": "mouth-ulcer-example.png",
+      "old_start": 0.6,
+      "old_end": 3.6,
+      "new_start": 0.5839166666666666,
+      "new_end": 3.7120416666666665,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 14,
+      "asset": "B.mp4",
+      "old_start": 11.31,
+      "old_end": 14.31,
+      "new_start": 11.219541666666666,
+      "new_end": 14.848166666666666,
+      "reason": "Clean original B-roll through the adjacent camera cut; remove obsolete illustrative-footage label."
+    },
+    {
+      "id": 14,
+      "asset": "smile-goals-mirror.png",
+      "old_start": 17.55,
+      "old_end": 21.8,
+      "new_start": 17.55920833333333,
+      "new_end": 22.522499999999997,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 15,
+      "asset": "male-sleep-context.png",
+      "old_start": 16.2,
+      "old_end": 19.5,
+      "new_start": 16.016,
+      "new_end": 19.519499999999997,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 15,
+      "asset": "15-Questions.png",
+      "old_start": 53.2,
+      "old_end": 57.3,
+      "new_start": 53.21983333333333,
+      "new_end": 58.26654166666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 17,
+      "asset": "cold-sore-example.png",
+      "old_start": 0.56,
+      "old_end": 2.6,
+      "new_start": 0.5422083333333333,
+      "new_end": 2.5859166666666664,
+      "reason": "Rebuild adjoining photo overlays on exact integer frames, eliminating a one-frame presenter flash between examples."
+    },
+    {
+      "id": 18,
+      "asset": "Care",
+      "old_start": 42.7,
+      "old_end": 46.4,
+      "new_start": 41.75004166666666,
+      "new_end": 46.62991666666667,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 18,
+      "asset": "@blueprint",
+      "old_start": 75.65891666666666,
+      "old_end": 82.54079166666666,
+      "new_start": 75.65891666666666,
+      "new_end": 84.16741666666665,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 18,
+      "asset": "Plan-Support",
+      "old_start": 211.023833,
+      "old_end": 214.548958,
+      "new_start": 211.04416666666665,
+      "new_end": 216.29941666666664,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    },
+    {
+      "id": 18,
+      "asset": "Care",
+      "old_start": 250.0,
+      "old_end": 254.2,
+      "new_start": 248.6650833333333,
+      "new_end": 254.21229166666666,
+      "reason": "Align visual boundaries with camera changes and absorb short legacy card flashes."
+    }
+  ],
+  "brand_revision": "Flagship rail wordmarks expanded to full practice name; repeated shortened rail footer removed. Review page headers and metadata also updated.",
+  "other_refinements": [
+    "Frame-accurate visual boundaries prevent one-frame presenter flashes.",
+    "Flagship scan labels enlarged from 48 to 56 pixels.",
+    "Short legacy-card flashes absorbed into the adjacent relevant photographic visual."
+  ],
+  "verification": {
+    "films_reviewed": 18,
+    "timing_refinements": 38,
+    "resolution": "1920x1080",
+    "frame_counts_and_timestamps_preserved": true,
+    "encoded_audio_packets_and_timestamps_identical": true,
+    "continuous_human_watch_and_listen_completed": false,
+    "medical_claims_graded": false
+  }
+}
