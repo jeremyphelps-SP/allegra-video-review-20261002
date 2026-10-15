@@ -1,7 +1,9 @@
 {
-  "file": "ADC-Website-Handoff-R2.zip",
-  "bytes": 5335855,
-  "sha256": "57c7884a8fd888c083a9ed2e86b8c89584ebd46dd6093a325de19b5fb8c24bc0",
-  "includes": "Handoff metadata, approval register, music credits, 18 covers, 36 caption files, 18 transcripts. MP4 files are linked and available in the pinned repository archive.",
-  "media_source_commit": "a5f44a3244c71add994377da762e670474d47a83"
+  "file": "ADC-Website-Handoff-R3.zip",
+  "bytes": 5349404,
+  "sha256": "06182d2d1eaf091def90a4b2e1d3d641cc0a2c0026b991038f234e6123b3e0c6",
+  "includes": "Approved handoff, release and migration records, 18 covers, 36 caption files and 18 transcripts. MP4s are linked and included in the pinned source archive.",
+  "media_source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b",
+  "approved_editorial_media_commit": "a5f44a3244c71add994377da762e670474d47a83",
+  "youtube_playlist_url": "https://www.youtube.com/playlist?list=PLNP5mp5JC9_Q"
 }

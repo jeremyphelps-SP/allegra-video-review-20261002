@@ -1,29 +1,27 @@
-ALLEGRA DENTAL CENTER | WEBSITE VIDEO HANDOFF
-Version: ADC-VIDEO-WEBSITE-20261015-R2
+ALLEGRA DENTAL CENTER | APPROVED WEBSITE VIDEO HANDOFF
+Version: ADC-VIDEO-WEBSITE-20261015-R3-APPROVED
 
-Review collection: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/
-Five-minute flagship: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/18.html
+Public YouTube collection: https://www.youtube.com/playlist?list=PLNP5mp5JC9_Q
+Approved review library: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/
 Handoff: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/
 
-WHAT IS INCLUDED
-18 full-HD review exports, dedicated photographic/artwork covers, English VTT and SRT captions, review transcripts, per-video music attribution, and the flagship chapter timestamps. Handoff.json contains public URLs, source paths and SHA-256 hashes for every media asset.
+APPROVAL AND RELEASE
+Jeremy confirmed that he reviewed these films with Dr. Dickson and approved proceeding on October 15, 2026. All 18 exact video hashes are recorded in Approval-Register.json. All 18 films are now public on Allegra Dental Center's YouTube channel. Public players offer 1080p and manual English captions. Titles, saved descriptions, professional covers and music credits were verified. The flagship seven chapter times are included.
 
-APPROVAL STATE
-Pending Dr. Dickson review. Technical verification is complete; a full uninterrupted human watch and listen has not been certified. Clinical validity was not graded. Record the reviewer, date and exact approved video hash in Approval-Register.json or CSV, with the actual approval evidence. Do not invent or infer approval.
+FOR CLOUD PC CODEX
+1. Read Handoff.json and inspect the current Allegra Dental Center production website repository and its release instructions.
+2. Use production_youtube_id for each film. YouTube-Link-Migration.json maps the previous public uploads to the approved new uploads. Older uploads remain accessible; do not delete or change their visibility during migration.
+3. Lead with the Forma Method flagship. Group shorter films by topic and use the supplied professional photography or approved artwork covers.
+4. Use click-to-play, visible controls, English captions, transcript access, and useful video metadata. Preserve the exact approved narration, appearance, framing, backgrounds, graphics, music and visual timing.
+5. Carry the supplied music attribution with each video, including creator, track, source, CC BY 4.0 link and modification note.
+6. Verify actual desktop and phone playback, seeking, covers, captions and all seven flagship chapter links. Prepare a reviewable website change before deployment under that chat's current authority.
 
-FOR THE RECEIVING CODEX
-1. Read Handoff.json and inspect the current production website repository.
-2. Obtain Jeremy's confirmation of Dr. Dickson's approved videos and any requested revisions.
-3. Retrieve the exact assets using the source commit a5f44a3244c71add994377da762e670474d47a83, or download from the preview URLs and verify the hashes. The full repository archive at the URL in Handoff.json includes all MP4 files. The small handoff ZIP includes covers, captions and metadata; its video files are provided by URL.
-4. Prepare website integration in the existing design: flagship first, shorter films grouped by topic, click-to-play, supplied posters, captions, transcripts and music credits.
-5. Choose the production media service based on the actual site. Existing public YouTube versions are not this revision. Do not substitute old YouTube URLs. If YouTube is chosen, obtain publication authorization, upload the approved new versions and record the verified IDs.
-6. Verify desktop and phone playback, seeking, captions, covers and chapter controls. Prepare a reviewable change before release.
+FILES AND SOURCE
+The small ZIP includes metadata, approvals, the public YouTube mapping, 18 covers, 36 caption files and 18 transcripts. MP4 files are linked in Handoff.json and included in the pinned repository archive:
+https://github.com/jeremyphelps-SP/allegra-video-review-20261002/archive/d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b.zip
+Approved editorial media commit: a5f44a3244c71add994377da762e670474d47a83
+Source commit including the corrected SRT: d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b
+Every video file is byte-identical to the approved edition. Only duplicate numeric cue labels were removed from the gummy-smile SRT; caption words and timestamps were preserved.
 
-PRESERVATION REQUIREMENTS
-Keep the original recorded doctor performance and the approved appearance, backgrounds, framing, graphics and audio treatment. Do not apply facial, smile, voice or skin changes. Do not use extracted video frames as doctor covers. The gummy-smile imagery and score are retained; visual boundaries have been refined for cleaner camera changes. Illustrative imagery is not actual Allegra Dental Center patient or outcome photography.
-
-REVIEW FEEDBACK
-Dr. Dickson can add timestamped notes on each film and choose a review decision. These notes are stored only on the reviewing device. Use "Copy all review notes" to share feedback with Jeremy. The site does not send or synchronize approval decisions automatically.
-
-RELEASE BOUNDARY
-This package prepares a handoff. It does not authorize production website deployment, YouTube publication, email, WhatsApp or messaging another Codex chat. After review, Jeremy can pass the handoff URL and explicit approval evidence to the receiving Codex.
+STATUS AND BOUNDARIES
+The production website has not been modified by this chat. Medical validity was not graded; clinical decisions remain with the doctors. Owner-reported joint review is recorded without claiming independent certification of uninterrupted viewing or listening. No client messages or other Codex chats were sent by this release task.

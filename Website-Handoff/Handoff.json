@@ -1,42 +1,41 @@
 {
-  "handoff_id": "ADC-VIDEO-WEBSITE-20261015-R2",
-  "revision": 2,
+  "handoff_id": "ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
+  "revision": 3,
   "client": "Allegra Dental Center",
-  "prepared_utc": "2026-10-15T21:03:55.303519+00:00",
+  "prepared_utc": "2026-10-15T22:14:09.027933+00:00",
   "review_site_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/",
   "handoff_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/",
   "repository_url": "https://github.com/jeremyphelps-SP/allegra-video-review-20261002",
-  "media_source_commit": "a5f44a3244c71add994377da762e670474d47a83",
-  "media_source_archive_url": "https://github.com/jeremyphelps-SP/allegra-video-review-20261002/archive/a5f44a3244c71add994377da762e670474d47a83.zip",
+  "media_source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b",
+  "media_source_archive_url": "https://github.com/jeremyphelps-SP/allegra-video-review-20261002/archive/d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b.zip",
   "scope": "17 doctor-presented topic films plus the five-minute Forma Method flagship",
-  "approval_state": "Doctor review pending. Preparing this handoff does not authorize production website changes or new YouTube publication.",
-  "current_authorization": "Correct visual branding and transition pacing, update the review collection and refresh its portable handoff.",
+  "approval_state": "All 18 films approved by Jeremy Phelps after review with Dr. Nana Dickson, as reported by Jeremy on October 15, 2026.",
+  "current_authorization": "Approved public YouTube release completed. Approved website handoff prepared for Cloud PC Codex. Production website integration and deployment were not performed by this chat.",
   "dependencies": [
-    "Dr. Dickson reviews this exact media revision.",
-    "Jeremy confirms the videos approved for website use.",
-    "Receiving Codex inspects the current website repository and media hosting before implementation.",
-    "Production media URLs or newly approved YouTube IDs are recorded before launch."
+    "Receiving Codex inspects the current Allegra Dental Center website repository, hosting and release instructions.",
+    "Use the verified new public YouTube IDs and approved covers, captions, transcripts and credits in this package.",
+    "Prepare and verify the website change under the receiving chat current implementation and deployment authority."
   ],
-  "next_action": "Review the corrected collection with Dr. Dickson. After approval, provide this handoff URL and the approval evidence to the receiving Codex.",
+  "next_action": "Give this handoff URL to Cloud PC Codex to prepare the website integration. The doctor approval and public YouTube release are already recorded; do not substitute older uploads.",
   "prohibited_actions": [
-    "Do not infer approval from a working preview, technical QA or this handoff.",
-    "Use Allegra Dental Center in full for designed wordmarks, brand references and metadata. Preserve verbatim recorded dialogue and captions.",
-    "Do not publish these new versions to YouTube or the production website before approval for the relevant videos.",
-    "Do not alter doctor faces, skin treatment, smile, voice or dialogue.",
-    "Do not use extracted video frames for doctor covers.",
+    "Do not substitute a different editorial revision or an older YouTube upload.",
+    "Use Allegra Dental Center in full in designed branding and metadata; preserve verbatim recorded dialogue and captions.",
+    "Do not alter doctor faces, skin treatment, smile, voice, dialogue, approved timing or music.",
+    "Use dedicated professional photography or approved artwork for covers; do not extract doctor video frames.",
     "Do not restore rejected composite-material or ambiguous dental-laser-handpiece artwork.",
     "Do not represent illustrative AI imagery as actual Allegra Dental Center patients, equipment or outcomes.",
-    "Do not send messages or modify other Codex chats based on this document."
+    "Do not delete or change the visibility of older YouTube uploads while website links are being migrated.",
+    "This handoff does not authorize sending messages, modifying other Codex chats or deploying unrelated website changes."
   ],
   "integration_guidance": [
     "Lead with the five-minute Forma Method film; organize the 17 shorter films by topic.",
     "Use the supplied professional photographic or approved artwork covers and exact reviewed titles.",
     "Use click-to-play with a poster, visible controls and English captions; avoid autoplaying multiple long videos.",
-    "Use the website existing production media service or approved YouTube uploads. GitHub Pages is a review host, not the planned permanent production video service.",
+    "Use the verified public YouTube IDs in this manifest for production embeds. GitHub Pages remains the review and handoff host.",
     "Preserve the approved MP4 appearance, timing and audio. Retain 1080p exports; optimize additional delivery versions only as needed.",
     "Keep the reviewed cutaway timing. Avoid a brief presenter return immediately before another camera angle; return directly into the new angle where possible.",
     "Keep music attribution alongside each player or in the YouTube description. Include creator, track, source, CC BY 4.0 link and modification note.",
-    "Add transcript access and useful video metadata after production URLs and publication dates are known.",
+    "Provide transcript access and accurate video metadata using the recorded publication date and final YouTube URLs.",
     "Do not invent production routes, embed IDs, approval dates or publication dates."
   ],
   "acceptance_criteria": [
@@ -58,8 +57,14 @@
     "encoded_visual_samples_inspected": true,
     "gummy_smile_audio_preserved_exactly": true,
     "continuous_human_watch_and_listen_completed": false,
-    "doctor_approval": "pending",
-    "medical_claims_graded": false
+    "doctor_approval": "Reported approved by owner after review with Dr. Dickson",
+    "medical_claims_graded": false,
+    "human_review_reported_by_owner": true,
+    "youtube_public_uploads_verified": 18,
+    "youtube_1080p_available": 18,
+    "youtube_manual_english_caption_tracks_verified": 18,
+    "saved_release_metadata_verified": 18,
+    "production_website_changed": false
   },
   "films": [
     {
@@ -77,28 +82,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/01.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/01%20-%205%20Clues%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/01%20-%205%20Clues%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/01 - 5 Clues - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 24481597,
-        "sha256": "ac34d0c796ac419eb81155e353e7e5bb652256c7baf9a46fb8a45e198af2b5dd"
+        "sha256": "ac34d0c796ac419eb81155e353e7e5bb652256c7baf9a46fb8a45e198af2b5dd",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/01.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/01.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/01.jpg",
         "bytes": 425208,
-        "sha256": "1e8057b146fb78a4a6dd957c4a48b5c21645b5fddc3d358acedcf20b02893e72"
+        "sha256": "1e8057b146fb78a4a6dd957c4a48b5c21645b5fddc3d358acedcf20b02893e72",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/01-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/01-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/01-English.vtt",
         "bytes": 1534,
-        "sha256": "4d3d0c2ca521efa4d0e3ec90f47802bd0c0cd325f8c174cb26852b37a6f4d39c"
+        "sha256": "4d3d0c2ca521efa4d0e3ec90f47802bd0c0cd325f8c174cb26852b37a6f4d39c",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/01-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/01-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/01-English.srt",
         "bytes": 1572,
-        "sha256": "3871d07c520d20695e7909a49fbc45723e484173d23dcb24c182e76d3dd633b0"
+        "sha256": "3871d07c520d20695e7909a49fbc45723e484173d23dcb24c182e76d3dd633b0",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/01.txt",
       "music": {
@@ -111,13 +120,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "ac34d0c796ac419eb81155e353e7e5bb652256c7baf9a46fb8a45e198af2b5dd",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=uwMzdcVbepY",
+      "production_youtube_id": "uwMzdcVbepY",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Why does your dentist ask about sleep, breathing or grinding? Dr. Nana Dickson introduces a broader dental conversation and the thinking behind The Forma Method.\n\nWhat would you like your dentist to explain about the mouth-body connection? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Reverie by Scott Buckley\nhttps://www.scottbuckley.com.au/library/reverie/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:05:54.886Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.186982,
+          "duration": 58.421,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=6Huev0rrBII"
     },
     {
       "id": 2,
@@ -134,28 +170,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/02.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/02%20-%205%20Common%20Causes%20of%20Jaw%20Pain%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/02%20-%205%20Common%20Causes%20of%20Jaw%20Pain%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/02 - 5 Common Causes of Jaw Pain - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 46939042,
-        "sha256": "eee363d44f22c863a922420fe9edf234f840d9850953099041725a69b701dd8b"
+        "sha256": "eee363d44f22c863a922420fe9edf234f840d9850953099041725a69b701dd8b",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/02.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/02.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/02.jpg",
         "bytes": 255220,
-        "sha256": "abe0bc9e2449d50ed377c9db55fb45bbc667c90a22a87be3ff149f6f629f7c4c"
+        "sha256": "abe0bc9e2449d50ed377c9db55fb45bbc667c90a22a87be3ff149f6f629f7c4c",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/02-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/02-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/02-English.vtt",
         "bytes": 2810,
-        "sha256": "e98b52e847370b777faaef1cc116e2bcfb442d6f58942314ea56ca5525e3890b"
+        "sha256": "e98b52e847370b777faaef1cc116e2bcfb442d6f58942314ea56ca5525e3890b",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/02-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/02-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/02-English.srt",
         "bytes": 2887,
-        "sha256": "8bb92195e96e7ca8f8ca986beb365abaf81152a39f5829660ebe4a6e76f95ae8"
+        "sha256": "8bb92195e96e7ca8f8ca986beb365abaf81152a39f5829660ebe4a6e76f95ae8",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/02.txt",
       "music": {
@@ -168,13 +208,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "eee363d44f22c863a922420fe9edf234f840d9850953099041725a69b701dd8b",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=SEAEMWm5jGg",
+      "production_youtube_id": "SEAEMWm5jGg",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Sore, tight or clicking jaw? Learn five possible causes your dentist may consider, and why the cause matters before choosing treatment.\n\nWhich jaw-health topic would you like us to explain next? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:06:08.159Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 0,
+          "duration": 115.421,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=3t5ez90ro8s"
     },
     {
       "id": 3,
@@ -191,28 +258,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/03.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/03%20-%20Bonding%20Vs%20Veneers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/03%20-%20Bonding%20Vs%20Veneers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/03 - Bonding Vs Veneers - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 19182144,
-        "sha256": "161415196103656b3d470183a9d6052b2d33345465b4a7c22d94dbc504e24b92"
+        "sha256": "161415196103656b3d470183a9d6052b2d33345465b4a7c22d94dbc504e24b92",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/03.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/03.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/03.jpg",
         "bytes": 490059,
-        "sha256": "930c2e4f7a59ed0aef75f41c793f274686937141f07767b14f1299c48334bb9c"
+        "sha256": "930c2e4f7a59ed0aef75f41c793f274686937141f07767b14f1299c48334bb9c",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/03-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/03-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/03-English.vtt",
         "bytes": 1150,
-        "sha256": "ab239f69a13016f2dcf139d0b3a48a49c2f3221c1d6a274d0eed3632f6b85e44"
+        "sha256": "ab239f69a13016f2dcf139d0b3a48a49c2f3221c1d6a274d0eed3632f6b85e44",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/03-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/03-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/03-English.srt",
         "bytes": 1173,
-        "sha256": "faadc45f4b3f03636c86a2972fd5ff99b0bbc70024311f499b9b42f5aaa130c5"
+        "sha256": "faadc45f4b3f03636c86a2972fd5ff99b0bbc70024311f499b9b42f5aaa130c5",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/03.txt",
       "music": {
@@ -225,13 +296,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "161415196103656b3d470183a9d6052b2d33345465b4a7c22d94dbc504e24b92",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=jvCdOtl1ZVE",
+      "production_youtube_id": "jvCdOtl1ZVE",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Deciding between bonding and veneers? Compare repairability, staining and wear so you can bring better questions to your cosmetic consultation.\n\nWhich comparison would you like us to explore next: upkeep, repair or the treatment process? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:06:46.053Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.390101,
+          "duration": 46.441,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=sF19m-xZ9xg"
     },
     {
       "id": 4,
@@ -248,28 +346,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/04.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/04%20-%20Choices%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/04%20-%20Choices%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/04 - Choices - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 37422493,
-        "sha256": "98b832ba1a6a1ea0131645bdeaa3b2f541bd2a9940f2df080436bb445f4e3770"
+        "sha256": "98b832ba1a6a1ea0131645bdeaa3b2f541bd2a9940f2df080436bb445f4e3770",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/04.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/04.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/04.jpg",
         "bytes": 261407,
-        "sha256": "4033326b8ae5a354f025c8476b53283eba54721c1ad6d9ca0901663a5c821339"
+        "sha256": "4033326b8ae5a354f025c8476b53283eba54721c1ad6d9ca0901663a5c821339",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/04-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/04-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/04-English.vtt",
         "bytes": 2794,
-        "sha256": "d66907bd33bc8e5aa5075f16e1d91a90f99ef67c92afa6aa82d917eb8683fbd2"
+        "sha256": "d66907bd33bc8e5aa5075f16e1d91a90f99ef67c92afa6aa82d917eb8683fbd2",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/04-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/04-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/04-English.srt",
         "bytes": 2868,
-        "sha256": "1bad2e951142731337ab05beb4de0af72bf15e162eb44c91bf6d18096aa51b36"
+        "sha256": "1bad2e951142731337ab05beb4de0af72bf15e162eb44c91bf6d18096aa51b36",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/04.txt",
       "music": {
@@ -282,13 +384,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "98b832ba1a6a1ea0131645bdeaa3b2f541bd2a9940f2df080436bb445f4e3770",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=YHuTBDQE1YA",
+      "production_youtube_id": "YHuTBDQE1YA",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Worried about feeling rushed or pressured at the dentist? Hear how Allegra Dental Center approaches listening, explaining recommendations and making time for your questions.\n\nWhat helps you feel comfortable and confident at a dental visit? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Simplicity by Scott Buckley\nhttps://www.scottbuckley.com.au/library/simplicity/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:06:59.308Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.470771,
+          "duration": 100.841,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=ju4cv_RLlbE"
     },
     {
       "id": 5,
@@ -305,28 +434,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/05.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/05%20-%20Composite%20Bonding%20Right%20For%20You%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/05%20-%20Composite%20Bonding%20Right%20For%20You%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/05 - Composite Bonding Right For You - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 16983490,
-        "sha256": "c4ca0fd29fcc55f92634bb02e1187cee3c9fff6caebc8f814a105ab4e64d2324"
+        "sha256": "c4ca0fd29fcc55f92634bb02e1187cee3c9fff6caebc8f814a105ab4e64d2324",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/05.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/05.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/05.jpg",
         "bytes": 218279,
-        "sha256": "072ef7e01704609bd99044fe7cb93b073ce0fff8bc707b430da306ccc3564478"
+        "sha256": "072ef7e01704609bd99044fe7cb93b073ce0fff8bc707b430da306ccc3564478",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/05-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/05-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/05-English.vtt",
         "bytes": 960,
-        "sha256": "9f0ecc4dcc333ade1b41ba43f93c31a25a1b263f438a1021268848149ec57e5e"
+        "sha256": "9f0ecc4dcc333ade1b41ba43f93c31a25a1b263f438a1021268848149ec57e5e",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/05-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/05-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/05-English.srt",
         "bytes": 974,
-        "sha256": "3a693bc8252083d0590c25bc770475a0fc8e9fe82eb421f1ffdd1389874482ce"
+        "sha256": "3a693bc8252083d0590c25bc770475a0fc8e9fe82eb421f1ffdd1389874482ce",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/05.txt",
       "music": {
@@ -339,13 +472,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "c4ca0fd29fcc55f92634bb02e1187cee3c9fff6caebc8f814a105ab4e64d2324",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=G0hfcpNqMFE",
+      "production_youtube_id": "G0hfcpNqMFE",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "A chip, small gap or uneven edge: could bonding help? Learn what your dentist considers, including your bite, tooth structure and grinding habits.\n\nWhat would you like to understand about the bonding process? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:07:43.452Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.532499,
+          "duration": 38.441,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=haXP8ZQFEMY"
     },
     {
       "id": 6,
@@ -362,28 +522,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/06.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/06%20-%20Composite%20vs%20Porcelain%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/06%20-%20Composite%20vs%20Porcelain%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/06 - Composite vs Porcelain - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 12168915,
-        "sha256": "57529d92bc10bbdccede668ba5c1e153e63b63cdb65dc2899e1062283c7f8f36"
+        "sha256": "57529d92bc10bbdccede668ba5c1e153e63b63cdb65dc2899e1062283c7f8f36",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/06.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/06.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/06.jpg",
         "bytes": 475403,
-        "sha256": "1587fbae0f616ea664096543b68540b200791854dcf9c8e765f45bb91edac7b1"
+        "sha256": "1587fbae0f616ea664096543b68540b200791854dcf9c8e765f45bb91edac7b1",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/06-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/06-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/06-English.vtt",
         "bytes": 847,
-        "sha256": "a62811068d55256995053c3c26dd9a5100921e029b2f31a7dd6f886397325992"
+        "sha256": "a62811068d55256995053c3c26dd9a5100921e029b2f31a7dd6f886397325992",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/06-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/06-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/06-English.srt",
         "bytes": 861,
-        "sha256": "dca39ebd769f65af0ada761ef6e47d35ca5f67b485ebdada290c391a88be6bcc"
+        "sha256": "dca39ebd769f65af0ada761ef6e47d35ca5f67b485ebdada290c391a88be6bcc",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/06.txt",
       "music": {
@@ -396,13 +560,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "57529d92bc10bbdccede668ba5c1e153e63b63cdb65dc2899e1062283c7f8f36",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=znOX7D_ic7I",
+      "production_youtube_id": "znOX7D_ic7I",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Considering a change to your smile? This brief introduction explains why your teeth, bite and goals matter when choosing between bonding and veneers.\n\nWhat would you want to ask before choosing bonding or veneers? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Reverie by Scott Buckley\nhttps://www.scottbuckley.com.au/library/reverie/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:07:55.635Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 5.38885,
+          "duration": 27.021,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=2j513GrtMFE"
     },
     {
       "id": 7,
@@ -419,28 +610,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/07.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/07%20-%20Comprehensive%20Approach%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/07%20-%20Comprehensive%20Approach%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/07 - Comprehensive Approach - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 20025991,
-        "sha256": "c4188c08ea90401d675d52e120c58465fc32fc1fbf1ba9453d4ceda8413a0315"
+        "sha256": "c4188c08ea90401d675d52e120c58465fc32fc1fbf1ba9453d4ceda8413a0315",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/07.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/07.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/07.jpg",
         "bytes": 488095,
-        "sha256": "95493ee8654caf6add8d9131e4861611971c13c38ff7391ef3e3410d3c20aae9"
+        "sha256": "95493ee8654caf6add8d9131e4861611971c13c38ff7391ef3e3410d3c20aae9",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/07-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/07-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/07-English.vtt",
         "bytes": 1107,
-        "sha256": "540f9a7b55ef4d8343162e8329066e48b1d6d8fa34963a36fef05408b3fcbbbe"
+        "sha256": "540f9a7b55ef4d8343162e8329066e48b1d6d8fa34963a36fef05408b3fcbbbe",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/07-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/07-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/07-English.srt",
         "bytes": 1127,
-        "sha256": "507b8573377f1e60fdc4f1088798ee41fe38fc895292e67cf0b3c81d5efe0cb8"
+        "sha256": "507b8573377f1e60fdc4f1088798ee41fe38fc895292e67cf0b3c81d5efe0cb8",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/07.txt",
       "music": {
@@ -453,13 +648,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "c4188c08ea90401d675d52e120c58465fc32fc1fbf1ba9453d4ceda8413a0315",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=o61vtCZose0",
+      "production_youtube_id": "o61vtCZose0",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Thinking about a Forma Method consultation? Dr. Dickson introduces the evaluation, shared review of findings and conversation about your options.\n\nWhat would you like to know before a Forma Method consultation? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Reverie by Scott Buckley\nhttps://www.scottbuckley.com.au/library/reverie/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:08:36.028Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 5.381967,
+          "duration": 39.041,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=n3ue2yFvKdk"
     },
     {
       "id": 8,
@@ -476,28 +698,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/08.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/08%20-%20Finding%20a%20new%20office%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/08%20-%20Finding%20a%20new%20office%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/08 - Finding a new office - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 31084411,
-        "sha256": "4f43e2a396e2ffb854a366d8691d4a8c5edcca8ea1b3cca36c9a49022d1066d4"
+        "sha256": "4f43e2a396e2ffb854a366d8691d4a8c5edcca8ea1b3cca36c9a49022d1066d4",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/08.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/08.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/08.jpg",
         "bytes": 224253,
-        "sha256": "8d5cc6523d2ae0b1a50b15ce0a62ff713ab677d98afc7e0f7c92a3d5f33d4df8"
+        "sha256": "8d5cc6523d2ae0b1a50b15ce0a62ff713ab677d98afc7e0f7c92a3d5f33d4df8",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/08-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/08-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/08-English.vtt",
         "bytes": 1898,
-        "sha256": "653d7245fe2816fa58e22543ddd1b2157cb186b2d61ad21482f283aecef5eecf"
+        "sha256": "653d7245fe2816fa58e22543ddd1b2157cb186b2d61ad21482f283aecef5eecf",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/08-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/08-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/08-English.srt",
         "bytes": 1948,
-        "sha256": "fb99edd9f7e03234a8d8ab594210313eef5942eebbe6d87fc3cb075bddab3e3a"
+        "sha256": "fb99edd9f7e03234a8d8ab594210313eef5942eebbe6d87fc3cb075bddab3e3a",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/08.txt",
       "music": {
@@ -510,13 +736,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "4f43e2a396e2ffb854a366d8691d4a8c5edcca8ea1b3cca36c9a49022d1066d4",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=EtBygncGXhg",
+      "production_youtube_id": "EtBygncGXhg",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "New to Allegra Dental Center? Meet Dr. Nana Dickson and hear how the team approaches your questions, comfort and understanding of recommended care.\n\nWhat would make your first visit to a new dentist feel easier? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Simplicity by Scott Buckley\nhttps://www.scottbuckley.com.au/library/simplicity/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:08:47.383Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.857457,
+          "duration": 68.841,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=MlGyyGJzgV4"
     },
     {
       "id": 9,
@@ -533,28 +786,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/09.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/09%20-%20Forma%20Method%202%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/09%20-%20Forma%20Method%202%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/09 - Forma Method 2 - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 33995105,
-        "sha256": "3338f5093724a7767ec3a31dc672ab26c4ba876c51d93417155b92e4bf76fcff"
+        "sha256": "3338f5093724a7767ec3a31dc672ab26c4ba876c51d93417155b92e4bf76fcff",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/09.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/09.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/09.jpg",
         "bytes": 400691,
-        "sha256": "71e93d5fda9f9553456199871878ebcea6de1fdfcb0c3f4c3fd6298268ad2cc2"
+        "sha256": "71e93d5fda9f9553456199871878ebcea6de1fdfcb0c3f4c3fd6298268ad2cc2",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/09-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/09-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/09-English.vtt",
         "bytes": 2172,
-        "sha256": "4f7378eaf7d5a5c035dc95fe4ca676cd66d8bc237928af5d99abba29af198f16"
+        "sha256": "4f7378eaf7d5a5c035dc95fe4ca676cd66d8bc237928af5d99abba29af198f16",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/09-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/09-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/09-English.srt",
         "bytes": 2228,
-        "sha256": "1c5c3d92850609d427989ac01cd906e5c3c26007c9b251b59a05a6e2fde7f373"
+        "sha256": "1c5c3d92850609d427989ac01cd906e5c3c26007c9b251b59a05a6e2fde7f373",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/09.txt",
       "music": {
@@ -567,13 +824,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "3338f5093724a7767ec3a31dc672ab26c4ba876c51d93417155b92e4bf76fcff",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=ZdeJPmyInrw",
+      "production_youtube_id": "ZdeJPmyInrw",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "A natural-looking smile involves more than individual teeth. Dr. Dickson explains how lips, gums, facial proportions and tooth display guide cosmetic planning.\n\nWhat does a natural-looking smile mean to you? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:09:04.034Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.587698,
+          "duration": 86.041,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=ir9-RK1yE4Q"
     },
     {
       "id": 10,
@@ -590,28 +874,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/10.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/10%20-%20Forma%20Method%20Full%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/10%20-%20Forma%20Method%20Full%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/10 - Forma Method Full - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 73916711,
-        "sha256": "00f697d401f52135ef9a916d82643625985ae82a5c4803ba52d674eebe40e0a6"
+        "sha256": "00f697d401f52135ef9a916d82643625985ae82a5c4803ba52d674eebe40e0a6",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/10.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/10.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/10.jpg",
         "bytes": 435778,
-        "sha256": "7614505a1ff69ceab6cc4621eba2297b2838904d5ebebf2cd91bb06127384310"
+        "sha256": "7614505a1ff69ceab6cc4621eba2297b2838904d5ebebf2cd91bb06127384310",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/10-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/10-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/10-English.vtt",
         "bytes": 4283,
-        "sha256": "f0c19993573ee10809e35ead8c1b14e34c050f8c28f4bf69bf7b55ba396d36de"
+        "sha256": "f0c19993573ee10809e35ead8c1b14e34c050f8c28f4bf69bf7b55ba396d36de",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/10-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/10-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/10-English.srt",
         "bytes": 4423,
-        "sha256": "71b5ff8309177c544eb84814799afd0ca8123d5708d839c9a65066b3c6febc75"
+        "sha256": "71b5ff8309177c544eb84814799afd0ca8123d5708d839c9a65066b3c6febc75",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/10.txt",
       "music": {
@@ -624,13 +912,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "00f697d401f52135ef9a916d82643625985ae82a5c4803ba52d674eebe40e0a6",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=87R6RazUViU",
+      "production_youtube_id": "87R6RazUViU",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "How do dental findings become a plan you understand? Follow The Forma Method through gathering information, reviewing findings together and planning care.\n\nWhich phase would you like a closer look at: Discover, Understand or Plan? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Reverie by Scott Buckley\nhttps://www.scottbuckley.com.au/library/reverie/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:09:17.089Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 0,
+          "duration": 167,
+          "error": null,
+          "readyState": 0,
+          "videoHeight": 0,
+          "videoWidth": 0
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=gsRT4vh7X0M"
     },
     {
       "id": 11,
@@ -647,28 +962,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/11.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/11%20-%20Gummy%20Smile%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/11%20-%20Gummy%20Smile%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/11 - Gummy Smile - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 18240111,
-        "sha256": "ed035bbfc8f1bd76b39ae0573cbe7974ffa7ff0467cbeb86d303edd9a01f07a0"
+        "sha256": "ed035bbfc8f1bd76b39ae0573cbe7974ffa7ff0467cbeb86d303edd9a01f07a0",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/11.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/11.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/11.jpg",
         "bytes": 233890,
-        "sha256": "b0d5eca1de0bc806ad9fe0a4082bc87104ff74ed7ef43358d676387882b7ac2a"
+        "sha256": "b0d5eca1de0bc806ad9fe0a4082bc87104ff74ed7ef43358d676387882b7ac2a",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/11-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/11-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/11-English.vtt",
         "bytes": 1288,
-        "sha256": "2baba920c035439429c667d56a428a5a22e6ce4fbd42234c541df9d4edb9e084"
+        "sha256": "2baba920c035439429c667d56a428a5a22e6ce4fbd42234c541df9d4edb9e084",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/11-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/11-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/11-English.srt",
-        "bytes": 1326,
-        "sha256": "e106884063494017d4fe639f13a5a8dbd21e4948520254fa6689035ee2bd25bc"
+        "bytes": 1281,
+        "sha256": "3e270addc25acc7682e2fe573f72e18b3b781a8889b7ee80694acacde495cb54",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/11.txt",
       "music": {
@@ -681,14 +1000,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "ed035bbfc8f1bd76b39ae0573cbe7974ffa7ff0467cbeb86d303edd9a01f07a0",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null,
-      "previous_approval_note": "Previously approved gummy-smile imagery and score retained, with visual timing refined to avoid brief presenter returns. Approval for this revision is pending."
+      "production_video_url": "https://www.youtube.com/watch?v=nhKVGYS8r4U",
+      "production_youtube_id": "nhKVGYS8r4U",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Why do gummy smiles need different treatment plans? Dr. Dickson explains how gum tissue, supporting bone and lip movement shape the options you discuss.\n\nWhich gummy-smile treatment would you like us to explain in a future video? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:09:28.563Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 5.283219,
+          "duration": 43.281,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=ItmL0RpBZg8"
     },
     {
       "id": 12,
@@ -705,28 +1050,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/12.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/12%20-%20Invisalign%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/12%20-%20Invisalign%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/12 - Invisalign - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 25684472,
-        "sha256": "004f89b5aad78beedbe7083b02873f0f3b2c58560b0ba400948466e6787132c2"
+        "sha256": "004f89b5aad78beedbe7083b02873f0f3b2c58560b0ba400948466e6787132c2",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/12.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/12.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/12.jpg",
         "bytes": 243114,
-        "sha256": "e3cd2ec1e98a0d19346b9517dfc2e6cad74de5fb08779218bfa66ec46506c395"
+        "sha256": "e3cd2ec1e98a0d19346b9517dfc2e6cad74de5fb08779218bfa66ec46506c395",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/12-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/12-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/12-English.vtt",
         "bytes": 1177,
-        "sha256": "9bdd421bee26e3faa7f82319a78a81b9fcdabab3ad3666f0ba8f6cfd458cd667"
+        "sha256": "9bdd421bee26e3faa7f82319a78a81b9fcdabab3ad3666f0ba8f6cfd458cd667",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/12-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/12-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/12-English.srt",
         "bytes": 1203,
-        "sha256": "31273d7e8b9ad49380e76361edfcc45b1243116c53d7244a4d1d3f668fba3212"
+        "sha256": "31273d7e8b9ad49380e76361edfcc45b1243116c53d7244a4d1d3f668fba3212",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/12.txt",
       "music": {
@@ -739,13 +1088,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "004f89b5aad78beedbe7083b02873f0f3b2c58560b0ba400948466e6787132c2",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=mh47oDIK4wI",
+      "production_youtube_id": "mh47oDIK4wI",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Wearing Invisalign? Follow five everyday habits covering wear, food and drinks, cleaning, your schedule and when to contact your dental team.\n\nWhich aligner-care habit would you like more tips on? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:05:42.149Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 5.009363,
+          "duration": 48.041,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=fuDlNW8C4wE"
     },
     {
       "id": 13,
@@ -762,28 +1138,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/13.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/13%20-%20Lasers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/13%20-%20Lasers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/13 - Lasers - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 11028279,
-        "sha256": "6ef9e7d43e7df761867a0e3c5eadf30ed5da135b99e4b39eb93c4582497f2ba6"
+        "sha256": "6ef9e7d43e7df761867a0e3c5eadf30ed5da135b99e4b39eb93c4582497f2ba6",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/13.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/13.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/13.jpg",
         "bytes": 221042,
-        "sha256": "84aa08ec666ccfc15dd172739bf1ee050ba95c64db5968f7df35405615709e2e"
+        "sha256": "84aa08ec666ccfc15dd172739bf1ee050ba95c64db5968f7df35405615709e2e",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/13-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/13-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/13-English.vtt",
         "bytes": 607,
-        "sha256": "731645864880f7b9085e43656673b40924cde0eef7d33b614c9cda81f23a3198"
+        "sha256": "731645864880f7b9085e43656673b40924cde0eef7d33b614c9cda81f23a3198",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/13-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/13-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/13-English.srt",
         "bytes": 614,
-        "sha256": "ff51a9b85d6c39b8570b7e94f66bc0629fcf5d3e5fd336a6c2e6a91089977c21"
+        "sha256": "ff51a9b85d6c39b8570b7e94f66bc0629fcf5d3e5fd336a6c2e6a91089977c21",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/13.txt",
       "music": {
@@ -796,13 +1176,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "6ef9e7d43e7df761867a0e3c5eadf30ed5da135b99e4b39eb93c4582497f2ba6",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=8lziGkQy_O4",
+      "production_youtube_id": "8lziGkQy_O4",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Painful canker sore? Dr. Dickson introduces dental laser care as an option to ask the practice about. Suitability depends on an assessment of your symptoms.\n\nWhat would you like to know about a dental laser appointment? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:09:42.154Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 0,
+          "duration": 23.641,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=bgYYplBYcLU"
     },
     {
       "id": 14,
@@ -819,28 +1226,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/14.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/14%20-%20Lessons%20In%20Career%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/14%20-%20Lessons%20In%20Career%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/14 - Lessons In Career - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 32666322,
-        "sha256": "5688e646dd101f94eb554f19318c20a034e117dd2cd0600d1c9842354b7f455b"
+        "sha256": "5688e646dd101f94eb554f19318c20a034e117dd2cd0600d1c9842354b7f455b",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/14.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/14.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/14.jpg",
         "bytes": 286029,
-        "sha256": "37babe3f0f7f852901752c55a986e54d88f23772dc47bec1b45501f92967de0d"
+        "sha256": "37babe3f0f7f852901752c55a986e54d88f23772dc47bec1b45501f92967de0d",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/14-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/14-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/14-English.vtt",
         "bytes": 1902,
-        "sha256": "415ed3bc71244a4b7bacb7cf630626779a52820cafd6b95857185a59cd4f0d13"
+        "sha256": "415ed3bc71244a4b7bacb7cf630626779a52820cafd6b95857185a59cd4f0d13",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/14-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/14-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/14-English.srt",
         "bytes": 1946,
-        "sha256": "a20cb5dbf9dfcc1ca56cbbb8a6293f715104eecdc5239ff12030b602aef02831"
+        "sha256": "a20cb5dbf9dfcc1ca56cbbb8a6293f715104eecdc5239ff12030b602aef02831",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/14.txt",
       "music": {
@@ -853,13 +1264,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "5688e646dd101f94eb554f19318c20a034e117dd2cd0600d1c9842354b7f455b",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=HcFRHut5WlI",
+      "production_youtube_id": "HcFRHut5WlI",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Will your new smile still feel like you? Dr. Dickson explains why listening to your vision and communicating it to the dental lab matter in smile planning.\n\nWhen you picture your ideal smile, what matters most to you? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Simplicity by Scott Buckley\nhttps://www.scottbuckley.com.au/library/simplicity/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:09:55.184Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.527661,
+          "duration": 73.541,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=0J3GWWBLgqI"
     },
     {
       "id": 15,
@@ -876,28 +1314,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/15.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/15%20-%20Problem%20with%20Dentistry%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/15%20-%20Problem%20with%20Dentistry%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/15 - Problem with Dentistry - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 23399536,
-        "sha256": "9c3834f329a8017eb5261cda5e4e4a3d7a1d419d6915fc4146fe07c1a6699f0f"
+        "sha256": "9c3834f329a8017eb5261cda5e4e4a3d7a1d419d6915fc4146fe07c1a6699f0f",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/15.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/15.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/15.jpg",
         "bytes": 262723,
-        "sha256": "bc1acdde1aebf90845dc03622be4eddd8533111bead404554a8700c0cc4e28ea"
+        "sha256": "bc1acdde1aebf90845dc03622be4eddd8533111bead404554a8700c0cc4e28ea",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/15-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/15-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/15-English.vtt",
         "bytes": 1787,
-        "sha256": "d324d8462e4c9d6b0aafbb934238e9e524558658f24e69b21d40c5fd6e18e511"
+        "sha256": "d324d8462e4c9d6b0aafbb934238e9e524558658f24e69b21d40c5fd6e18e511",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/15-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/15-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/15-English.srt",
         "bytes": 1837,
-        "sha256": "079059b281d490bc3665b01061390456bfa28150a5b7f496c1982d3811ebe600"
+        "sha256": "079059b281d490bc3665b01061390456bfa28150a5b7f496c1982d3811ebe600",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/15.txt",
       "music": {
@@ -910,13 +1352,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "9c3834f329a8017eb5261cda5e4e4a3d7a1d419d6915fc4146fe07c1a6699f0f",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=LiEosDViTaA",
+      "production_youtube_id": "LiEosDViTaA",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Grinding, jaw discomfort or sleep concerns: what belongs in your dental conversation? Dr. Dickson introduces the broader questions behind Allegra Dental Center’s approach to planning care.\n\nWhat questions do you wish there were more time for at a dental visit? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Reverie by Scott Buckley\nhttps://www.scottbuckley.com.au/library/reverie/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:10:07.516Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 0,
+          "duration": 65.641,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=sdH95zk9emM"
     },
     {
       "id": 16,
@@ -933,28 +1402,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/16.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/16%20-%20Sore%20Jaw%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/16%20-%20Sore%20Jaw%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/16 - Sore Jaw - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 36744681,
-        "sha256": "38977f7a300c86a1ae66d5ad065f078af992f06769668a708385d58f4087aebd"
+        "sha256": "38977f7a300c86a1ae66d5ad065f078af992f06769668a708385d58f4087aebd",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/16.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/16.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/16.jpg",
         "bytes": 371291,
-        "sha256": "9b747825ade3a93edf38e2464325766ed18b1119ed89ff181b4c2521719529b8"
+        "sha256": "9b747825ade3a93edf38e2464325766ed18b1119ed89ff181b4c2521719529b8",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/16-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/16-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/16-English.vtt",
         "bytes": 2734,
-        "sha256": "0382f4a94aebcdbb2004531e93bd6ea25581e9261426827c038adce0a828a51f"
+        "sha256": "0382f4a94aebcdbb2004531e93bd6ea25581e9261426827c038adce0a828a51f",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/16-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/16-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/16-English.srt",
         "bytes": 2814,
-        "sha256": "7b3fce3711048cb630c8611b24cbc3cd38c21b79d3e43759618db95b7f543ed6"
+        "sha256": "7b3fce3711048cb630c8611b24cbc3cd38c21b79d3e43759618db95b7f543ed6",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/16.txt",
       "music": {
@@ -967,13 +1440,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "38977f7a300c86a1ae66d5ad065f078af992f06769668a708385d58f4087aebd",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=SvCx8KejLH8",
+      "production_youtube_id": "SvCx8KejLH8",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "What might a dentist consider when you report jaw discomfort? Dr. Dickson discusses bite assessment and questions to bring to an individual evaluation.\n\nWould you like a closer look at how a dentist evaluates your bite? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:10:20.985Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 0,
+          "duration": 107.841,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=kXAuhzg-5cs"
     },
     {
       "id": 17,
@@ -990,28 +1490,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/17.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/17%20-%20Ulcers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/17%20-%20Ulcers%20-%20Luxury-Unfiltered-Broll-Review.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/17 - Ulcers - Luxury-Unfiltered-Broll-Review.mp4",
         "bytes": 19172469,
-        "sha256": "39475149d0baddcd863a76bff2ffc9dc1082265a67e4e9c87429f1c3a1da301e"
+        "sha256": "39475149d0baddcd863a76bff2ffc9dc1082265a67e4e9c87429f1c3a1da301e",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/17.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/17.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/17.jpg",
         "bytes": 223071,
-        "sha256": "871c219f9a4519f7d87f5b0760ad3d5fa31dd47d87fe77faa0c89cf320aabbe9"
+        "sha256": "871c219f9a4519f7d87f5b0760ad3d5fa31dd47d87fe77faa0c89cf320aabbe9",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/17-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/17-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/17-English.vtt",
         "bytes": 1205,
-        "sha256": "e1c33c83decc02928cf61f49d627e3d70ba32d0a6c8d6a84ab8033f974eeffd2"
+        "sha256": "e1c33c83decc02928cf61f49d627e3d70ba32d0a6c8d6a84ab8033f974eeffd2",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/17-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/17-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/17-English.srt",
         "bytes": 1234,
-        "sha256": "ab76dea721329584a1fded2eda060afbd43cefa3487d22e8e3038c29b94084ad"
+        "sha256": "ab76dea721329584a1fded2eda060afbd43cefa3487d22e8e3038c29b94084ad",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/17.txt",
       "music": {
@@ -1024,13 +1528,40 @@
       },
       "chapters": [],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "39475149d0baddcd863a76bff2ffc9dc1082265a67e4e9c87429f1c3a1da301e",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=YnYQkPt291E",
+      "production_youtube_id": "YnYQkPt291E",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "Noticing the first signs of a cold sore? Hear why Dr. Dickson asks patients to contact the practice early to discuss assessment and possible care.\n\nWhat would you like us to explain about dental laser care next? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:10:38.502Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 2.599068,
+          "duration": 44.841,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=V3ctwk8SvZo"
     },
     {
       "id": 18,
@@ -1047,28 +1578,32 @@
       "audio_codec": "AAC",
       "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Watch/18.html",
       "video": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/18-Forma-Method-Flagship-REVIEW.mp4?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Videos/18-Forma-Method-Flagship-REVIEW.mp4?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Videos/18-Forma-Method-Flagship-REVIEW.mp4",
         "bytes": 88467147,
-        "sha256": "9cd625e02b31e64b71dc41ab51d6d943bae2d5636f19356754646f60e1c8a4b6"
+        "sha256": "9cd625e02b31e64b71dc41ab51d6d943bae2d5636f19356754646f60e1c8a4b6",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "cover": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/18.jpg?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Covers/18.jpg?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Covers/18.jpg",
         "bytes": 250741,
-        "sha256": "25778a066c4c595b3a6f222cf439fea1c2cb0ec4c0d68f96a39c92ac4a2e1c08"
+        "sha256": "25778a066c4c595b3a6f222cf439fea1c2cb0ec4c0d68f96a39c92ac4a2e1c08",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_vtt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/18-English.vtt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/18-English.vtt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/18-English.vtt",
         "bytes": 9154,
-        "sha256": "fdc521c392062ddca67063e6affd51257c8fc4be3a8befdc454ec07ad52db614"
+        "sha256": "fdc521c392062ddca67063e6affd51257c8fc4be3a8befdc454ec07ad52db614",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "captions_srt": {
-        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/18-English.srt?rev=ADC-EDITORIAL-QUALITY-20261015-R2",
+        "preview_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Captions/18-English.srt?rev=ADC-VIDEO-WEBSITE-20261015-R3-APPROVED",
         "source_git_path": "Captions/18-English.srt",
         "bytes": 9571,
-        "sha256": "c5d5bd996e65abb6b0e0bc661e3addadc45ebc85675b17125ff54225f378754d"
+        "sha256": "c5d5bd996e65abb6b0e0bc661e3addadc45ebc85675b17125ff54225f378754d",
+        "source_commit": "d2451d2bf9a7eb63875a12a5b3dd8f2ba7eae34b"
       },
       "transcript_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/Transcripts/18.txt",
       "music": {
@@ -1110,13 +1645,44 @@
         }
       ],
       "approval": {
-        "status": "pending_doctor_review",
-        "approved_by": null,
-        "approved_at": null,
-        "approved_video_sha256": null
+        "status": "approved_by_owner_after_doctor_review",
+        "approved_by": "Jeremy Phelps, reporting review with Dr. Nana Dickson",
+        "approved_at": "2026-10-15T21:26:44.049496+00:00",
+        "approved_video_sha256": "9cd625e02b31e64b71dc41ab51d6d943bae2d5636f19356754646f60e1c8a4b6",
+        "evidence": "Jeremy confirmed review with Dr. Dickson and approved proceeding in the originating chat on October 15, 2026."
       },
-      "production_video_url": null,
-      "production_youtube_id": null
+      "production_video_url": "https://www.youtube.com/watch?v=nlVgG4TNEKk",
+      "production_youtube_id": "nlVgG4TNEKk",
+      "youtube_published_date": "2026-10-15",
+      "youtube_visibility": "Public",
+      "publication_description": "What if your dental visit helped you understand a fuller picture of your health? Join Dr. Nana Dickson for a five-minute introduction to the Forma Method at Allegra Dental Center in Fairfax, Virginia.\n\nFollow Discover, Understand and Plan, and see how information becomes a thoughtful conversation about your care.\n\nChapters\n0:00 A fuller picture\n0:56 Discover\n1:51 An example: jaw discomfort\n2:33 Understand\n3:12 Plan\n4:08 Care that listens\n4:31 Your next step\n\nWhich part of the Forma Method would you like us to explore next? Tell us in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: A Moment by Leonardo Calvo\nhttps://thesoundrack.itch.io/lofi-strings-music-pack\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrack or supplied stems mixed, looped, crossfaded and trimmed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
+      "publication_verification": {
+        "verified_utc": "2026-10-15T22:10:56.186Z",
+        "title_verified": true,
+        "full_hd_available": true,
+        "english_manual_captions_available": true,
+        "music_credit_visible": true,
+        "full_brand_visible": true,
+        "public_player": {
+          "currentTime": 5.303824,
+          "duration": 300.021,
+          "error": null,
+          "readyState": 4,
+          "videoHeight": 1080,
+          "videoWidth": 1920
+        },
+        "title": true,
+        "description_exact_after_reload": true,
+        "approved_source_filename": true,
+        "uploaded_thumbnail": true,
+        "youtube_hd_processing_complete": true,
+        "visibility_public": true
+      },
+      "previous_public_youtube_url": "https://www.youtube.com/watch?v=7Qg4WF8vlI4"
     }
-  ]
+  ],
+  "approved_editorial_media_commit": "a5f44a3244c71add994377da762e670474d47a83",
+  "public_youtube_playlist_url": "https://www.youtube.com/playlist?list=PLNP5mp5JC9_Q",
+  "website_implementation_status": "Prepared for receiving Codex; production website unchanged.",
+  "supplemental_changes": "Corrected duplicate cue numbers in the gummy-smile SRT. Caption words and timestamps and all video/audio files remain unchanged."
 }
