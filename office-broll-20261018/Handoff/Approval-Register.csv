@@ -1,0 +1,6 @@
+asset_id,title,change,approval_date,approved_master_sha256,production_release_authorized
+4,Choosing a Dentist? What You Should Be Able to Expect,replace existing master,2026-10-18,ec55e8921bcca8039e17b6376c1ddda5e1e2e953d481ff4e279db7cb1b7f7419,No
+7,What to Expect From a Forma Method Consultation,replace existing master,2026-10-18,cd00a03ed1e80ac8ad746328dcce5b327c391e15f3321dca9f9c46eee1539e9a,No
+8,Your First Visit to Allegra Dental Center: A Welcome From Dr. Dickson,replace existing master,2026-10-18,a583c2a071ce0e5c89a5509f09c174dd8301512b919f842010df9143504aad89,No
+18,The Forma Method: A Fuller Picture of Your Health,replace existing master,2026-10-18,e3cbbc38e62206ce1a514518997eb045e5ff50f791b043724059fcb21b7b6fb5,No
+office-introduction,"Step Inside Allegra Dental Center | Fairfax, VA",add new office introduction,2026-10-18,fbc103a257b5d451aac2b75ff5c16cf3bdba7956b118f7ff289204363a3df2b4,No

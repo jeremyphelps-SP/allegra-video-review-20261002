@@ -1,0 +1,18 @@
+Continue the Allegra Dental Center video integration in the current Cloud PC workspace.
+
+Authoritative handoff: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Handoff/
+Machine-readable manifest: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Handoff/Handoff.json
+Review: https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/
+Media source revision: f7829bc6f668621cf4c9490f06ca6292a944d8e2
+
+Jeremy has approved proceeding with the office-footage editions. The update replaces films 04 (Choosing a Dentist), 07 (Consultation), 08 (First Visit) and 18 (Forma Method flagship), and adds the 20-second office introduction. The complete manifest also maps the 14 unchanged films so none are accidentally lost.
+
+Maddy: coordinate the handoff to Steven using the existing agreed route and report the receiving task and next step. Steven / Cloud PC Codex: integrate in the latest nonproduction website preview, preserving newer work and existing placements. Keep the flagship prominent on the homepage and Forma Method page; retain relevant consultation, practice and first-visit placements. Add the short office introduction selectively to the practice/about or first-visit experience.
+
+Download the metadata bundle and use fetch_assets.py to retrieve the five updated masters and their companion files. Use --all only if all 19 assets are needed. Every download is checked against the manifest SHA-256 and size. Masters are not inside the small metadata ZIP.
+
+Preserve the approved professional covers, titles, captions, transcripts, performances, audio and timing. All seven flagship chapters are unchanged. Do not re-edit or regenerate the doctors. Do not create video-frame thumbnails. Always use Allegra Dental Center as the brand name.
+
+The four revised cuts and the new introduction do not have replacement YouTube IDs yet. Existing public YouTube IDs still refer to prior editions. Use these new MP4 masters in the nonproduction preview through the existing asset pipeline, or identify a new-upload dependency. Do not claim an old embed shows the new cut.
+
+Keep production, public YouTube settings and tracking unchanged. Return one working preview URL, the source revision, a page-by-page change summary, media-identity verification, desktop/mobile playback/caption/chapter checks, and rollback instructions. Distinguish browser emulation from a physical-phone check. Preserve existing release holds. Wait for Jeremy's production-release approval.
