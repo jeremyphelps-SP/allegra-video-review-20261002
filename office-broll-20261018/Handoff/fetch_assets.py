@@ -22,7 +22,7 @@ def main():
         name=f"{r['id']:02}" if isinstance(r['id'],int) else r['id']
         for key,ext in [('video','.mp4'),('cover','.jpg'),('captions_vtt','.vtt'),('captions_srt','.srt'),('transcript','.txt')]:
             info=r.get(key)
-            if info:jobs.append((info,Path(args.directory)/key/(name+ext)))
+            if info:jobs.append((info,Path(args.directory)/key/(name+ext+('.enc' if info.get('encrypted') else ''))))
     if args.plan_only:
         print(json.dumps({'assets':len(selected),'files':len(jobs),'master_bytes':sum(r['video']['bytes'] for r in selected)},indent=2));return
     def fetch(job):
@@ -41,6 +41,6 @@ def main():
         raise RuntimeError(str(dest)+': '+str(error))
     with ThreadPoolExecutor(max_workers=3) as pool:
         for result in pool.map(fetch,jobs):print(result,flush=True)
-    print(f'Complete: {len(selected)} assets and {len(jobs)} files verified.')
+    print(f'Complete: {len(selected)} assets and {len(jobs)} files verified. Corrected .mp4.enc files remain encrypted; use the review page and private review key for playback/download.')
 
 if __name__=='__main__':main()

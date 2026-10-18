@@ -1,11 +1,11 @@
 {
-  "handoff_id": "ADC-OFFICE-FOOTAGE-20261018-R1",
+  "handoff_id": "ADC-OFFICE-FOOTAGE-20261018-R5-PROTECTED-REVIEW",
   "client": "Allegra Dental Center",
   "prepared_at": "2026-10-18T20:24:58.602770+00:00",
   "handoff_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Handoff/",
   "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/",
   "source_repository": "https://github.com/jeremyphelps-SP/allegra-video-review-20261002",
-  "media_source_commit": "f7829bc6f668621cf4c9490f06ca6292a944d8e2",
+  "media_source_commit": null,
   "scope": "Four replacement masters plus one new office introduction. Full collection map contains 19 assets; fourteen existing films are unchanged.",
   "updated_asset_ids": [
     4,
@@ -17,14 +17,15 @@
   "full_collection_count": 19,
   "previous_collection_handoff_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/Website-Handoff/",
   "authorization": {
-    "owner_approved_assets_to_proceed": true,
-    "approval_date": "2026-10-18",
-    "requested_coordination": "Maddy to hand this package to Steven for Cloud PC Codex integration.",
-    "website_work": "Integrate in the current nonproduction website preview and return for review.",
-    "production_deployment_authorized": false,
-    "youtube_upload_or_visibility_changes_authorized_by_this_handoff": false
+    "approver": "Jeremy Phelps",
+    "source_thread": "01a050ef-80e2-7110-8cf0-61d3e9bfc3a5",
+    "scope": "Existing review and handoff pages only; protected corrected files for playback checks",
+    "website_production": false,
+    "public_youtube": false,
+    "tracking": false
   },
   "integration_rules": [
+    "R5 is protected playback review only. Do not integrate into website production or upload to public YouTube. Earlier R1 approvals do not accept corrected R4/R5 delivery bytes.",
     "Start from the current authoritative Cloud PC checkout and latest website preview; preserve newer and unrelated work. Do not reset to an older website revision.",
     "Replace media through the existing registry for IDs 04, 07, 08 and 18 so every relevant placement receives the correct edition. Preserve the other 14 film mappings.",
     "Use the approved dedicated photography/artwork covers, titles, captions, transcripts, audio and chapter timings. Never create covers from video frames.",
@@ -41,12 +42,14 @@
     "Preserve the current site release holds and validate a rollback for the actual website changes before seeking release approval."
   ],
   "verification": {
-    "public_review_assets_checked": 32,
-    "four_doctor_audio_and_picture_timestamp_invariants_verified": true,
-    "flagship_chapters_retained": 7,
-    "hosted_new_exports_match_verified_local_files": true,
-    "production_website_changed": false,
-    "public_youtube_changed": false
+    "technical_QC": "Review-QC.json",
+    "continuous_watch_listen": "pending",
+    "physical_phone": "pending",
+    "changed_assets": [
+      4,
+      "office-introduction"
+    ],
+    "other_17_film_records_unchanged": true
   },
   "films": [
     {
@@ -280,19 +283,26 @@
       "presenter": "Dr. Nana Dickson",
       "category": "Experience",
       "change": "replace existing master",
-      "edition": "ADC-OFFICE-FOOTAGE-20261018-R1",
+      "edition": "ADC-OFFICE-FOOTAGE-20261018-R5-PROTECTED-REVIEW",
       "video": {
-        "url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Videos/04-Choosing-a-Dentist-Office-Broll-REVIEW.mp4",
-        "immutable_url": "https://raw.githubusercontent.com/jeremyphelps-SP/allegra-video-review-20261002/f7829bc6f668621cf4c9490f06ca6292a944d8e2/office-broll-20261018/Videos/04-Choosing-a-Dentist-Office-Broll-REVIEW.mp4",
-        "source_git_path": "office-broll-20261018/Videos/04-Choosing-a-Dentist-Office-Broll-REVIEW.mp4",
-        "bytes": 46963161,
-        "sha256": "ec55e8921bcca8039e17b6376c1ddda5e1e2e953d481ff4e279db7cb1b7f7419"
+        "url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/choosing-R5.mp4.enc",
+        "source_git_path": "office-broll-20261018/Protected/choosing-R5.mp4.enc",
+        "bytes": 36968607,
+        "sha256": "35c9d93121bb4172169ea7b023fc3f9543cefcd43c2d3f02ed2504485a88bf3b",
+        "encrypted": true,
+        "plaintext": {
+          "filename": "04-Choosing-a-Dentist-Privacy-R4-H264-REVIEW.mp4",
+          "bytes": 36968591,
+          "sha256": "0e6fc36aef8d835dfcd17a53327c7f368a2d2f092f4a838021e3b95fd3a2233f"
+        },
+        "iv": "Z1Ty_WCukDVujsMh",
+        "algorithm": "AES-256-GCM"
       },
       "width": 1920,
       "height": 1080,
       "frame_rate": "24000/1001",
       "picture_frames": 2415,
-      "duration_seconds": 100.806,
+      "duration_seconds": 100.807,
       "cover": {
         "url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Covers/04.jpg",
         "immutable_url": "https://raw.githubusercontent.com/jeremyphelps-SP/allegra-video-review-20261002/f7829bc6f668621cf4c9490f06ca6292a944d8e2/office-broll-20261018/Covers/04.jpg",
@@ -339,9 +349,7 @@
       },
       "approved_description": "Worried about feeling rushed or pressured at the dentist? Hear how Allegra Dental Center approaches listening, explaining recommendations and making time for your questions.\n\nWhat helps you feel comfortable and confident at a dental visit? Share your thoughts in the comments.\n\nMeet the team or request a consultation at Allegra Dental Center:\nhttps://allegradc.com/contact/\n\nWatch the complete Allegra Dental Center collection:\nhttps://www.youtube.com/playlist?list=PLNP5mp5JC9_Q\n\nMusic: Simplicity by Scott Buckley\nhttps://www.scottbuckley.com.au/library/simplicity/\nLicensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/\nTrimmed and mixed beneath original dialogue; loudness adjusted.\n\nThe doctors appear in their original recorded performances. Supporting visuals include digitally created illustrative scenes, not actual patient results.\n\nThis video provides general education. Your dentist can advise you based on an individual evaluation.",
       "approval": {
-        "state": "owner approved proceeding with this office-footage edition for handoff",
-        "date": "2026-10-18",
-        "evidence": "Jeremy: Let's proceed with these videos. Can you get them in a place that we can hand them over to Cloud Codex?"
+        "state": "protected_review_access_authorized; public_release_not_authorized; playback_pending"
       },
       "placement_guidance": [
         "Preserve every existing Choosing a Dentist placement, especially practice, patient-experience and choosing-a-dentist content."
@@ -1469,13 +1477,20 @@
       "presenter": null,
       "category": "Office experience",
       "change": "add new office introduction",
-      "edition": "ADC-OFFICE-FOOTAGE-20261018-R1",
+      "edition": "ADC-OFFICE-FOOTAGE-20261018-R5-PROTECTED-REVIEW",
       "video": {
-        "url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Videos/00-Step-Inside-Allegra-Dental-Center-REVIEW.mp4",
-        "immutable_url": "https://raw.githubusercontent.com/jeremyphelps-SP/allegra-video-review-20261002/f7829bc6f668621cf4c9490f06ca6292a944d8e2/office-broll-20261018/Videos/00-Step-Inside-Allegra-Dental-Center-REVIEW.mp4",
-        "source_git_path": "office-broll-20261018/Videos/00-Step-Inside-Allegra-Dental-Center-REVIEW.mp4",
-        "bytes": 18722786,
-        "sha256": "fbc103a257b5d451aac2b75ff5c16cf3bdba7956b118f7ff289204363a3df2b4"
+        "url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/intro-R5.mp4.enc",
+        "source_git_path": "office-broll-20261018/Protected/intro-R5.mp4.enc",
+        "bytes": 14149355,
+        "sha256": "38771821826f6a1092e67fe8989a720f8bcf7876bd7d49b71c98e25d1892cc10",
+        "encrypted": true,
+        "plaintext": {
+          "filename": "00-Step-Inside-Privacy-R4-H264-REVIEW.mp4",
+          "bytes": 14149339,
+          "sha256": "3bb8af7aa08a1269c46e811773ee2ec194e4c5f60397d98c518254d924ad0fcb"
+        },
+        "iv": "KqEAmFn-CtEc20tM",
+        "algorithm": "AES-256-GCM"
       },
       "width": 1920,
       "height": 1080,
@@ -1509,8 +1524,7 @@
       "existing_youtube_record": null,
       "has_spoken_dialogue": false,
       "approval": {
-        "state": "owner approved proceeding with this office introduction for handoff",
-        "date": "2026-10-18"
+        "state": "protected_review_access_authorized; public_release_not_authorized; playback_pending"
       },
       "suggested_description": "Take a brief look inside the Fairfax treatment rooms at Allegra Dental Center. Learn about the practice or request a consultation at https://allegradc.com/contact/.",
       "placement_guidance": [
@@ -1518,5 +1532,43 @@
         "This is a treatment-room glimpse, not a complete office tour. Use a meaningful poster and click-to-play controls. No audible autoplay."
       ]
     }
-  ]
+  ],
+  "parent_handoff_id": "ADC-OFFICE-FOOTAGE-20261018-R1",
+  "historical_office_footage_source_commit": "f7829bc6f668621cf4c9490f06ca6292a944d8e2",
+  "review_access": {
+    "mode": "client-side authenticated encryption; key supplied only in owning chat",
+    "key_in_public_repository": false,
+    "server_receives_key": false,
+    "assets": [
+      {
+        "id": "choosing",
+        "film_id": 4,
+        "filename": "04-Choosing-a-Dentist-Privacy-R4-H264-REVIEW.mp4",
+        "bytes": 36968591,
+        "sha256": "0e6fc36aef8d835dfcd17a53327c7f368a2d2f092f4a838021e3b95fd3a2233f",
+        "cipher_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/choosing-R5.mp4.enc",
+        "cipher_path": "office-broll-20261018/Protected/choosing-R5.mp4.enc",
+        "cipher_bytes": 36968607,
+        "cipher_sha256": "35c9d93121bb4172169ea7b023fc3f9543cefcd43c2d3f02ed2504485a88bf3b",
+        "iv": "Z1Ty_WCukDVujsMh",
+        "algorithm": "AES-256-GCM",
+        "tag_bits": 128
+      },
+      {
+        "id": "intro",
+        "film_id": "office-introduction",
+        "filename": "00-Step-Inside-Privacy-R4-H264-REVIEW.mp4",
+        "bytes": 14149339,
+        "sha256": "3bb8af7aa08a1269c46e811773ee2ec194e4c5f60397d98c518254d924ad0fcb",
+        "cipher_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/intro-R5.mp4.enc",
+        "cipher_path": "office-broll-20261018/Protected/intro-R5.mp4.enc",
+        "cipher_bytes": 14149355,
+        "cipher_sha256": "38771821826f6a1092e67fe8989a720f8bcf7876bd7d49b71c98e25d1892cc10",
+        "iv": "KqEAmFn-CtEc20tM",
+        "algorithm": "AES-256-GCM",
+        "tag_bits": 128
+      }
+    ],
+    "limitation": "Anyone who obtains the key can decrypt these two files. This does not make prior R1 assets or other existing review materials private."
+  }
 }

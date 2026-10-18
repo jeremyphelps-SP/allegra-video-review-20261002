@@ -1,0 +1,250 @@
+{
+  "revision": "ADC-OFFICE-FOOTAGE-20261018-R5-PROTECTED-REVIEW",
+  "status": "protected_review_only; not_public_video_release_or_production_acceptance",
+  "assets": [
+    {
+      "id": "choosing",
+      "film_id": 4,
+      "filename": "04-Choosing-a-Dentist-Privacy-R4-H264-REVIEW.mp4",
+      "bytes": 36968591,
+      "sha256": "0e6fc36aef8d835dfcd17a53327c7f368a2d2f092f4a838021e3b95fd3a2233f",
+      "cipher_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/choosing-R5.mp4.enc",
+      "cipher_path": "office-broll-20261018/Protected/choosing-R5.mp4.enc",
+      "cipher_bytes": 36968607,
+      "cipher_sha256": "35c9d93121bb4172169ea7b023fc3f9543cefcd43c2d3f02ed2504485a88bf3b",
+      "iv": "Z1Ty_WCukDVujsMh",
+      "algorithm": "AES-256-GCM",
+      "tag_bits": 128
+    },
+    {
+      "id": "intro",
+      "film_id": "office-introduction",
+      "filename": "00-Step-Inside-Privacy-R4-H264-REVIEW.mp4",
+      "bytes": 14149339,
+      "sha256": "3bb8af7aa08a1269c46e811773ee2ec194e4c5f60397d98c518254d924ad0fcb",
+      "cipher_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/Protected/intro-R5.mp4.enc",
+      "cipher_path": "office-broll-20261018/Protected/intro-R5.mp4.enc",
+      "cipher_bytes": 14149355,
+      "cipher_sha256": "38771821826f6a1092e67fe8989a720f8bcf7876bd7d49b71c98e25d1892cc10",
+      "iv": "KqEAmFn-CtEc20tM",
+      "algorithm": "AES-256-GCM",
+      "tag_bits": 128
+    }
+  ],
+  "technical_QC": [
+    {
+      "name": "choosing",
+      "bytes": 36968591,
+      "sha256": "0e6fc36aef8d835dfcd17a53327c7f368a2d2f092f4a838021e3b95fd3a2233f",
+      "codec": "H264/yuv420p, CRF18; AAC stream copied",
+      "lossy_delivery_not_pixel_identical": true,
+      "decoded_frames": 2415,
+      "all_actual_decoded_pts_and_durations_exact": true,
+      "including_final_frame": true,
+      "audio_packets_and_timestamps_exact": true,
+      "decoded_audio_identity": true,
+      "decoded_pcm_sha256": "SHA256=e283af323a9e47de61ffa4c12ad2c38d7ca4f79b476b2903a2815004de2fa2c3",
+      "masked_frames_verified": 135,
+      "mask_interior_inset_pixels": 16,
+      "mask_max_luma_deviation_from_16": 0,
+      "mask_max_chroma_deviation_from_128": 0,
+      "visual_review": "All135 affected monitor-region frames and8 adjacent unmasked boundary neighbors directly inspected in consecutive delivery sheets; no exposed UI apparent. Region crops, some displayed sheet reduction; not full continuous playback or full-frame forensic acceptance.",
+      "continuous_player_watch_listen": "human_review_pending",
+      "status": "unpublished_review_delivery_technical_checks_pass",
+      "source_movie_duration": {
+        "timescale": 1000,
+        "ticks": 100807,
+        "seconds": 100.807
+      },
+      "delivery_movie_duration": {
+        "timescale": 1000,
+        "ticks": 100807,
+        "seconds": 100.807
+      },
+      "source_tracks": [
+        {
+          "handler": "vide",
+          "track_duration_ticks": 100684,
+          "media": {
+            "timescale": 24000,
+            "ticks": 2416415,
+            "seconds": 100.68395833333334
+          },
+          "edit_list": [
+            [
+              100684,
+              2002,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "handler": "soun",
+          "track_duration_ticks": 100807,
+          "media": {
+            "timescale": 48000,
+            "ticks": 4839727,
+            "seconds": 100.82764583333334
+          },
+          "edit_list": [
+            [
+              100806,
+              1024,
+              1,
+              0
+            ]
+          ]
+        }
+      ],
+      "delivery_tracks": [
+        {
+          "handler": "vide",
+          "track_duration_ticks": 100684,
+          "media": {
+            "timescale": 24000,
+            "ticks": 2416415,
+            "seconds": 100.68395833333334
+          },
+          "edit_list": [
+            [
+              100684,
+              2002,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "handler": "soun",
+          "track_duration_ticks": 100807,
+          "media": {
+            "timescale": 48000,
+            "ticks": 4839727,
+            "seconds": 100.82764583333334
+          },
+          "edit_list": [
+            [
+              100806,
+              1024,
+              1,
+              0
+            ]
+          ]
+        }
+      ],
+      "container_movie_track_media_durations_exact": true,
+      "mask_check_limitation": "Lossy H264 transcode: all mask interiors checked with16pixel inset/tolerance4, not pixelidentical to lossless masters; edge/chroma compression and full continuous player acceptance require visual review. No auditory observation claimed.",
+      "faststart_moov_before_mdat": true
+    },
+    {
+      "name": "intro",
+      "bytes": 14149339,
+      "sha256": "3bb8af7aa08a1269c46e811773ee2ec194e4c5f60397d98c518254d924ad0fcb",
+      "codec": "H264/yuv420p, CRF18; AAC stream copied",
+      "lossy_delivery_not_pixel_identical": true,
+      "decoded_frames": 480,
+      "all_actual_decoded_pts_and_durations_exact": true,
+      "including_final_frame": true,
+      "audio_packets_and_timestamps_exact": true,
+      "decoded_audio_identity": true,
+      "decoded_pcm_sha256": "SHA256=97ef45dd387e72343064ac78d9683807f6db74b3c2afa2c2aa196b7867e22b60",
+      "masked_frames_verified": 137,
+      "mask_interior_inset_pixels": 16,
+      "mask_max_luma_deviation_from_16": 0,
+      "mask_max_chroma_deviation_from_128": 0,
+      "visual_review": "All137 affected monitor-region frames including both dissolve contributions and8 adjacent unmasked boundary neighbors directly inspected in consecutive delivery sheets; no exposed UI apparent. Region crops, some displayed sheet reduction; not full continuous playback or full-frame forensic acceptance.",
+      "continuous_player_watch_listen": "human_review_pending",
+      "status": "unpublished_review_delivery_technical_checks_pass",
+      "source_movie_duration": {
+        "timescale": 1000,
+        "ticks": 20000,
+        "seconds": 20
+      },
+      "delivery_movie_duration": {
+        "timescale": 1000,
+        "ticks": 20000,
+        "seconds": 20
+      },
+      "source_tracks": [
+        {
+          "handler": "vide",
+          "track_duration_ticks": 20000,
+          "media": {
+            "timescale": 12288,
+            "ticks": 245760,
+            "seconds": 20
+          },
+          "edit_list": [
+            [
+              20000,
+              1024,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "handler": "soun",
+          "track_duration_ticks": 20000,
+          "media": {
+            "timescale": 48000,
+            "ticks": 961024,
+            "seconds": 20.021333333333335
+          },
+          "edit_list": [
+            [
+              20000,
+              1024,
+              1,
+              0
+            ]
+          ]
+        }
+      ],
+      "delivery_tracks": [
+        {
+          "handler": "vide",
+          "track_duration_ticks": 20000,
+          "media": {
+            "timescale": 12288,
+            "ticks": 245760,
+            "seconds": 20
+          },
+          "edit_list": [
+            [
+              20000,
+              1024,
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "handler": "soun",
+          "track_duration_ticks": 20000,
+          "media": {
+            "timescale": 48000,
+            "ticks": 961024,
+            "seconds": 20.021333333333335
+          },
+          "edit_list": [
+            [
+              20000,
+              1024,
+              1,
+              0
+            ]
+          ]
+        }
+      ],
+      "container_movie_track_media_durations_exact": true,
+      "mask_check_limitation": "Lossy H264 transcode: all mask interiors checked with16pixel inset/tolerance4, not pixelidentical to lossless masters; edge/chroma compression and full continuous player acceptance require visual review. No auditory observation claimed.",
+      "faststart_moov_before_mdat": true
+    }
+  ],
+  "continuous_watch_listen": "pending Jeremy review",
+  "physical_phone": "pending Jeremy review",
+  "access_control": "AES-256-GCM; random 256-bit key held outside public repository; browser-only decryption; no persisted browser key",
+  "prior_public_assets": "Unchanged. No claim that historical source URLs or prior Git history became private."
+}
