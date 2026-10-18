@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "duration": 20.666666666666668,
+    "fps": 24.0,
+    "width": 1920,
+    "height": 1080,
+    "frames": 496,
+    "codec": "hevc",
+    "audio": [],
+    "filename": "1.mp4"
+  },
+  {
+    "id": 3,
+    "duration": 6.75,
+    "fps": 24.0,
+    "width": 1920,
+    "height": 1080,
+    "frames": 162,
+    "codec": "hevc",
+    "audio": [],
+    "filename": "3.mp4"
+  },
+  {
+    "id": 5,
+    "duration": 6.708333333333333,
+    "fps": 24.0,
+    "width": 1920,
+    "height": 1080,
+    "frames": 161,
+    "codec": "hevc",
+    "audio": [],
+    "filename": "5.mp4"
+  },
+  {
+    "id": 12,
+    "duration": 7.3406666666666665,
+    "fps": 59.94005994005994,
+    "width": 1920,
+    "height": 1080,
+    "frames": 440,
+    "codec": "hevc",
+    "audio": [],
+    "filename": "12.mp4"
+  }
+]

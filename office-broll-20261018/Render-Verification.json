@@ -1,0 +1,67 @@
+{
+  "status": "For editorial review",
+  "review_url": "https://jeremyphelps-sp.github.io/allegra-video-review-20261002/office-broll-20261018/",
+  "doctor_films": [
+    {
+      "id": 8,
+      "sha256": "a583c2a071ce0e5c89a5509f09c174dd8301512b919f842010df9143504aad89",
+      "frames": 1648,
+      "audio_packets_and_timestamps_identical": true,
+      "captions_unchanged": true,
+      "cover_unchanged": true,
+      "inserts": [
+        {
+          "office": 12,
+          "source_in": 0.55,
+          "speed": 0.4,
+          "start_frame": 437,
+          "end_frame": 521,
+          "why": "A real entrance into the treatment room as Dr. Dickson introduces the experience."
+        },
+        {
+          "office": 3,
+          "source_in": 0.6,
+          "speed": 1,
+          "start_frame": 521,
+          "end_frame": 640,
+          "why": "Bright room and chair on comfortable and cared for; ends directly on the approved team photograph."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sha256": "ec55e8921bcca8039e17b6376c1ddda5e1e2e953d481ff4e279db7cb1b7f7419",
+      "frames": 2415,
+      "audio_packets_and_timestamps_identical": true,
+      "captions_unchanged": true,
+      "cover_unchanged": true,
+      "inserts": [
+        {
+          "office": 1,
+          "source_in": 4.2,
+          "speed": 1,
+          "start_frame": 1419,
+          "end_frame": 1543,
+          "why": "Real office arrival during when you visit our office and walk through our doors."
+        },
+        {
+          "office": 5,
+          "source_in": 0.6,
+          "speed": 1,
+          "start_frame": 1543,
+          "end_frame": 1678,
+          "why": "Complementary room angle during welcomed, respected and supported; bridges the hidden camera cut."
+        }
+      ]
+    }
+  ],
+  "standalone": {
+    "duration": 20,
+    "width": 1920,
+    "height": 1080,
+    "sha256": "fbc103a257b5d451aac2b75ff5c16cf3bdba7956b118f7ff289204363a3df2b4"
+  },
+  "production_website_changed": false,
+  "public_youtube_changed": false,
+  "note": "These are review versions. User and doctor approval of these new cuts is pending."
+}

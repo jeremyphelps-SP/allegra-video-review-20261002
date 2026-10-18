@@ -1,0 +1,64 @@
+{
+  "placements": [
+    {
+      "video": 8,
+      "title": "Your First Visit to Allegra Dental Center",
+      "start": 18.2265416667,
+      "end": 26.6933333333,
+      "office_clips": [
+        12,
+        3
+      ],
+      "status": "Rendered review version",
+      "cue": "One of the things patients tell us ... comfortable and cared for they feel here.",
+      "why": "A real room entrance followed by the bright chair view. The approved team photograph follows immediately."
+    },
+    {
+      "video": 4,
+      "title": "Choosing a Dentist? What You Should Be Able to Expect",
+      "start": 59.184125,
+      "end": 69.9865833333,
+      "office_clips": [
+        1,
+        5
+      ],
+      "status": "Rendered review version",
+      "cue": "When you visit our office ... walk through our doors ... welcomed, respected and supported.",
+      "why": "An establishing move and complementary room angle. The sequence covers the underlying camera cut and returns to a stable presenter shot."
+    },
+    {
+      "video": 18,
+      "title": "The Forma Method: A Fuller Picture of Your Health",
+      "start": 248.6650833333,
+      "end": 254.2122916667,
+      "office_clips": [
+        12,
+        3
+      ],
+      "status": "Recommended next placement, not rendered",
+      "cue": "Care that listens / the patient experience chapter.",
+      "why": "Replace the existing care interlude with a brief real-office sequence, keeping the chapter timing and approved explanation intact. Confirm the complete transition in the flagship timeline before applying."
+    },
+    {
+      "video": 7,
+      "title": "What to Expect From a Forma Method Consultation",
+      "start": 30.5,
+      "end": 35.5,
+      "office_clips": [
+        12
+      ],
+      "status": "Candidate placement, not rendered",
+      "cue": "My team and I look forward to meeting you ...",
+      "why": "A short entry into the actual room can support the invitation. Keep Dr. Dickson visible for the final call to action and inspect camera-cut spacing before applying."
+    }
+  ],
+  "do_not_force_into": [
+    "Veneer/bonding comparisons",
+    "Gummy-smile examples",
+    "Invisalign habit demonstrations",
+    "Mouth-sore explanations"
+  ],
+  "reason": "Real office imagery should explain the visit and setting, while treatment-specific demonstrations remain visible.",
+  "standalone": "20-second look inside the treatment rooms, using only selected clips 12, 1, 5 and 3.",
+  "publication": "Public review preview only. Production website and public YouTube uploads unchanged."
+}
