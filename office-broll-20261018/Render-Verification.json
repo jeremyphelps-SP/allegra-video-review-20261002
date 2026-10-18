@@ -53,6 +53,50 @@
           "why": "Complementary room angle during welcomed, respected and supported; bridges the hidden camera cut."
         }
       ]
+    },
+    {
+      "id": 7,
+      "sha256": "cd00a03ed1e80ac8ad746328dcce5b327c391e15f3321dca9f9c46eee1539e9a",
+      "frames": 932,
+      "audio_packets_and_timestamps_identical": true,
+      "captions_unchanged": true,
+      "cover_unchanged": true,
+      "inserts": [
+        {
+          "office": 12,
+          "source_in": 0.8,
+          "speed": 0.4,
+          "start_frame": 732,
+          "end_frame": 847,
+          "why": "Real office arrival on the invitation to meet the team. Returns on the first clean frame after the existing front-camera cut, hiding the last frame of the previous text fade before the final consultation call to action."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "sha256": "e3cbbc38e62206ce1a514518997eb045e5ff50f791b043724059fcb21b7b6fb5",
+      "frames": 7193,
+      "audio_packets_and_timestamps_identical": true,
+      "captions_unchanged": true,
+      "cover_unchanged": true,
+      "inserts": [
+        {
+          "office": 12,
+          "source_in": 1.2,
+          "speed": 0.4,
+          "start_frame": 5962,
+          "end_frame": 6030,
+          "why": "Real doorway arrival at the Care that listens chapter, supporting the practice philosophy."
+        },
+        {
+          "office": 3,
+          "source_in": 2.8,
+          "speed": 1,
+          "start_frame": 6030,
+          "end_frame": 6095,
+          "why": "Bright treatment room while Dr. Dickson describes treating patients like family. Replaces only the existing care interlude and returns at its approved boundary."
+        }
+      ]
     }
   ],
   "standalone": {
@@ -61,7 +105,8 @@
     "height": 1080,
     "sha256": "fbc103a257b5d451aac2b75ff5c16cf3bdba7956b118f7ff289204363a3df2b4"
   },
+  "flagship_chapters_retained": 7,
   "production_website_changed": false,
   "public_youtube_changed": false,
-  "note": "These are review versions. User and doctor approval of these new cuts is pending."
+  "note": "Review versions. Approval of these new office-footage revisions is pending."
 }

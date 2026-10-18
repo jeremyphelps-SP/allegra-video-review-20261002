@@ -35,21 +35,21 @@
         12,
         3
       ],
-      "status": "Recommended next placement, not rendered",
+      "status": "Rendered review version",
       "cue": "Care that listens / the patient experience chapter.",
-      "why": "Replace the existing care interlude with a brief real-office sequence, keeping the chapter timing and approved explanation intact. Confirm the complete transition in the flagship timeline before applying."
+      "why": "Real office footage replaces the care interlude at the chapter boundary. Existing chapter timing and the return to Dr. Dickson are retained."
     },
     {
       "video": 7,
       "title": "What to Expect From a Forma Method Consultation",
-      "start": 30.5,
-      "end": 35.5,
+      "start": 30.5305,
+      "end": 35.32695833333333,
       "office_clips": [
         12
       ],
-      "status": "Candidate placement, not rendered",
+      "status": "Rendered review version",
       "cue": "My team and I look forward to meeting you ...",
-      "why": "A short entry into the actual room can support the invitation. Keep Dr. Dickson visible for the final call to action and inspect camera-cut spacing before applying."
+      "why": "Real doorway arrival during the invitation to meet the team. The office shot bridges the existing camera change and ends on its first clean frame, keeping Dr. Dickson visible for the final call to action."
     }
   ],
   "do_not_force_into": [
@@ -60,5 +60,5 @@
   ],
   "reason": "Real office imagery should explain the visit and setting, while treatment-specific demonstrations remain visible.",
   "standalone": "20-second look inside the treatment rooms, using only selected clips 12, 1, 5 and 3.",
-  "publication": "Public review preview only. Production website and public YouTube uploads unchanged."
+  "publication": "Public review preview only. Production website and public YouTube unchanged."
 }
